@@ -2,8 +2,10 @@ name: RSS Content Analyzer
 
 on:
   schedule:
-    - cron: '0 8 * * *'      # 每天 UTC 时间 8 点运行
-  workflow_dispatch:         # 允许手动触发
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+  pull_request:      # <--- 加上这关键的一段
+    branches: [ main ] # <--- 指定当 PR 指向 main 分支时触发
 
 jobs:
   analyze_rss:
