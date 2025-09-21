@@ -129,6 +129,7 @@ function applyAndRender() {
     const query = (searchEl.value || '').trim().toLowerCase();
     const lang = window.currentLang || 'zh';
 
+    // 筛选数据
     // 统计：当前搜索条件下，各数据源可见数量
     const counts = { all: 0 };
     for (const item of raw) {
@@ -151,7 +152,6 @@ function applyAndRender() {
     }
     
     window.__countsForCurrentQuery = counts;
-    // 筛选数据
     view = raw.filter(item => {
         // 根据语言选择对应字段
         const summaryField = lang === 'zh' ? item.summary_zh : item.summary_en;
@@ -183,20 +183,17 @@ function applyAndRender() {
 /**
  * 渲染数据源选择器
  */
+const counts = window.__countsForCurrentQuery || { all: raw.length };
 function renderSources(list) {
-    const counts = window.__countsForCurrentQuery || { all: raw.length };
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
-        // 🌟 优化数据源显示文字
-        const n = counts[source] || 0;
-        const displayText = source === 'all'
-          ? (lang === 'zh'
-              ? `📚 全部 (${n})`
-              : `📚 All (${n})`)
-          : `✨ ${source} (${n})`;
-
-        const isActive = source === activeSource ? 'active' : '';
+      const n = counts[source] || 0;
+    const displayText = source === 'all'
+      ? (lang === 'zh'
+          ? `📚 全部 (${n})`
+          : `📚 All (${n})`)
+      : `✨ ${source} (${n})`;
 
         return `<span class="tag ${isActive}" data-source="${source}">${esc(displayText)}</span>`;
     }).join('');
