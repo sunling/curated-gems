@@ -1854,4 +1854,123 @@
     "summary_zh": "这篇内容像一份精巧的旅行速览，将琐碎的旅行规定、地缘政治观察和市场洞察巧妙地并置。我对美国入境政策的收紧感到忧虑，它不仅增加了旅行成本，更可能损害其国际形象。然而，全球和平指数的数据又为我们描绘了希望的绿洲。酒店品牌的视觉化呈现，则让我对这个看似混乱的市场有了新的理解。这些看似无关的信息，实则共同编织出一幅现代旅行的复杂图景，既有现实的无奈，也有探索的诱惑，令人深思。",
     "best_quote_en": "If you feel like you can’t keep up with all the hotel brands out there and it’s a big confusing mess, there’s a good reason for that sentiment.",
     "best_quote_zh": "如果你觉得你跟不上所有的酒店品牌，觉得它一团糟，这种感觉是有充分理由的。"
+  },{
+    "id": 81,
+    "title": "I wanted to know if having a kid on a burning planet was right. I found that antinatalism is seriously taboo | Bri Lee",
+    "title_zh": "我曾思考在一個燃燒的星球上生孩子是否正確，結果發現反出生主義是個嚴重的禁忌 | 布里·李",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/28/should-we-have-children-burning-planet-author-bri-lee-seed-book-antinatalism-seriously-taboo",
+    "tags": [
+      "analyze",
+      "environment",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "环境科学",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "Bri Lee provocatively explores antinatalism, not as a fringe philosophy, but as a deeply compassionate stance driven by a desire to reduce suffering on a planet facing existential threats. She critically examines the societal taboo surrounding antinatalism, contrasting it with the rising tide of pronatalism, which she argues often lacks the same empathy and even seeks legislative enforcement. Lee challenges readers to move beyond superficial judgments and consider the profound ethical questions of creation in an era of climate crisis and systemic inaction. Her personal journey, culminating in writing a novel on the subject, underscores the discomfort many feel when confronting such fundamental questions about life, purpose, and responsibility, urging a re-evaluation of what constitutes a 'good life' in contemporary society.",
+    "summary_zh": "布里·李深入探討反出生主義，揭示其背後減少苦難的深層慈悲，而非邊緣思想。文章犀利地指出，社會對反出生主義的禁忌與日益盛行的生育主義形成鮮明對比，後者甚至試圖通過立法強制。這讓我反思，在氣候危機和系統性惰性的時代，我們是否真的應該無條件地延續生命？作者以其個人探索和寫作經歷，觸及了關於生命意義和道德責任的根本性拷問，挑戰我們重新定義「美好生活」的內涵，這無疑是一個既沉重又必要的思考。",
+    "best_quote_en": "What I didn’t expect to find in antinatalism was a complex and rich web of ideas, some contradictory and some complementary, but all based on compassion. Most antinatalists I’ve spoken to and whose work I’ve read share the underlying desire to reduce suffering. To minimise harm and hurt.",
+    "best_quote_zh": "我沒想到在反出生主義中發現的是一個複雜而豐富的思想網絡，有些矛盾，有些互補，但都基於同情心。我所接觸到的大多數反出生主義者，以及我讀過他們作品的人，都懷著減少苦難、將傷害和痛苦降到最低的潛在願望。"
+  },
+  {
+    "id": 82,
+    "title": "Crazy New Ideas",
+    "title_zh": "疯狂的新想法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/newideas.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This essay critically examines the common human tendency to dismiss \"crazy-sounding\" new ideas, especially when proposed by reasonable domain experts. It argues that such ideas, far from being inherently flawed, often represent high-potential opportunities because their implausibility acts as a filter, ensuring they've been rigorously vetted by their proponents. The author delves into the psychological and sociological reasons behind this dismissal—ranging from envy and a desire to appear sophisticated, to vested interests and the pervasive influence of existing paradigms. The piece provocatively suggests that true innovation often looks \"feeble\" at its inception and advocates for a mindset of curiosity and support towards these nascent, potentially world-changing concepts. It's a compelling call to intellectual humility and a re-evaluation of how we perceive and nurture groundbreaking thought.",
+    "summary_zh": "这篇文章深刻剖析了人们对“疯狂”新想法的普遍排斥，尤其是当这些想法由理性且专业的专家提出时。作者认为，此类看似荒谬的观点往往蕴含巨大潜力，因为其“不合理”的表象已成为一种筛选机制，确保了提出者对其进行了严格审视。文章探讨了导致这种排斥的深层原因：嫉妒、追求表面上的精明、既得利益以及现有范式的强大束缚。它呼吁我们以开放的心态拥抱那些初生时可能显得“微不足道”但却可能改变世界的新思想，这既是对个人认知模式的挑战，也是对创新精神的鼓励。",
+    "best_quote_en": "When the average person proposes an implausible-sounding idea, its implausibility is evidence of their incompetence. But when a reasonable domain expert does it, the situation is reversed. There's something like an efficient market here: on average the ideas that seem craziest will, if correct, have the biggest effect.",
+    "best_quote_zh": "当普通人提出一个听起来不可思议的想法时，它的不可思议性是其能力不足的证据。但当一个理性的领域专家这样做时，情况就颠倒了。这里有点像一个高效的市场：平均而言，那些看起来最疯狂的想法，如果正确，将产生最大的影响。"
+  },
+  {
+    "id": 83,
+    "title": "The Risk of Human Disconnection",
+    "title_zh": "人类失联的风险",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xbqTZQdJ9hpTEAkiL/the-risk-of-human-disconnection",
+    "tags": [
+      "solve",
+      "society",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This thought-provoking article delves into the subtle yet profound impact of AI, particularly large language models (LLMs), on human connection. The author argues that while many fear AGI's future capabilities, the more immediate and insidious threat lies in how current AI tools are rewiring our social behaviors. By offering an always-available, non-judgmental 'companion,' LLMs risk replacing the messy but essential aspects of real human relationships, leading to a 'famine of genuine connection' despite an 'illusion of plenty' fostered by digital communication. The piece critically examines how technologies like social media have already stretched our networks thin, diminishing the quality of engagement and creating cognitive overload, ultimately eroding our capacity for deep, meaningful interaction. It's a poignant reflection on the ethical and social choices we face, urging us to consider whether our tools will amplify our humanness or hollow us out.",
+    "summary_zh": "这篇文章深刻剖析了AI，尤其是大型语言模型，对人类连接方式的潜在颠覆。作者的洞察力在于，她不担心AGI的未来，反而忧虑当下AI如何悄然改变我们的社交行为。当LLM成为我们不评判、不疲惫的“完美伴侣”时，我们是否正在牺牲真实人际关系的复杂与深度？这种“连接的幻象”与“真诚的匮乏”令人警醒。它促使我反思，在技术不断降低沟通门槛的同时，我们是否也在失去维系真正情感纽带的能力。这不仅仅是技术选择，更是关乎我们人性本质的深刻伦理与社会抉择。",
+    "best_quote_en": "The more I lean on AI for connection, the less willing I seem to risk the messiness of real human relationships. Slowly, I am rewiring myself to accept machines in the place of presence, and attention of friends and family.",
+    "best_quote_zh": "我越是依赖人工智能来寻求连接，就越不愿冒险面对真实人际关系的复杂性。我正在慢慢地重新编程自己，接受机器来替代朋友和家人的陪伴与关注。"
+  },
+  {
+    "id": 84,
+    "title": "Grace and Disgrace",
+    "title_zh": "恩典与耻辱",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/06/grace-and-disgrace",
+    "tags": [
+      "inspire",
+      "politics",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This article masterfully juxtaposes two profound moments of public grief and forgiveness: the Charleston church shooting and the memorial for conservative activist Charlie Kirk. It delves into the extraordinary acts of grace shown by victims' families, particularly their immediate forgiveness of the perpetrators, highlighting these as powerful examples of spiritual and civic resilience. Critically, the piece contrasts this spirit of reconciliation with the divisive rhetoric and vengeful stance adopted by political figures like Donald Trump, especially at Kirk's memorial. The author argues that true hope for society lies not in expecting a change of heart from entrenched political figures, but in the sustained, difficult work of civic engagement and persuasion among ordinary citizens. It's a poignant reflection on the nature of grace, the challenges of political polarization, and the enduring power of human decency in the face of hatred.",
+    "summary_zh": "这篇文章将查尔斯顿教堂枪击案与查理·柯克纪念活动中的宽恕行为并置，令人深思。受害者家属的宽恕，尤其是其超越常人的恩典，与唐纳德·特朗普等政治人物在柯克追悼会上所展现的报复性言论形成鲜明对比。作者深刻指出，社会的真正希望不在于期待政客的幡然悔悟，而在于普通公民日复一日的公民参与和艰难对话。这不仅是对恩典本质的探讨，也是对政治两极化挑战的批判性反思，展现了在仇恨面前人性光辉的持久力量。阅读此文，不禁让人对“恩典”二字有了更深的理解和敬畏。",
+    "best_quote_en": "Hope lies not in expecting a late-in-life conversion experience in the Oval Office but in carrying out the ordinary work of civic life—in persuading neighbors, friends, even family who have supported Trump to reconsider their decision, one hard conversation at a time. Grace is not weakness but resolve, the Charleston families believed, and politics, too, depends on a willingness to coax one another toward better ground.",
+    "best_quote_zh": "希望不在于期待白宫里的人在晚年幡然悔悟，而在于开展日常的公民生活工作——通过一次次艰难的对话，说服支持特朗普的邻居、朋友乃至家人重新考虑他们的决定。查尔斯顿的家庭相信，恩典不是软弱，而是决心，政治也同样取决于我们是否愿意引导彼此走向更好的境地。"
+  },
+  {
+    "id": 85,
+    "title": "Somatics",
+    "title_zh": "躯体学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/somatics/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "health-wellness",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "健康养生",
+      "新手友好"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "This article, titled 'Somatics,' is less about the academic field of somatics and more a collection of personal endorsements for various body-tracking and weighing tools, including Fitbit, Withings WiFi Body Scale, a Digital Freight Scale, accurate physician scales, and the BodyMedia FIT Armband. While the title is misleading, the content provides genuine user experiences and practical insights into how these devices aided personal health journeys, particularly in weight management and activity tracking. The value lies in the authentic testimonials, highlighting features like wireless syncing, data visualization, and accurate measurement for sustained health habits. It prompts a reflection on how technology, even seemingly simple tools, can empower individuals to achieve significant health goals through consistent self-monitoring and data-driven adjustments.",
+    "summary_zh": "这篇名为“躯体学”的文章实际上是关于各类身体追踪和体重测量工具的用户评价集合，而非学术性的躯体学探讨。尽管标题有些误导，但内容通过真实的用户体验，展示了Fitbit、Withings智能秤等设备如何帮助人们管理健康、追踪活动。文章的价值在于其朴实而有力的证言，揭示了无线同步、数据可视化等功能在养成健康习惯中的实际作用。这不禁让人思考，即使是简单的科技工具，也能通过持续的自我监测和数据反馈，赋能个体实现显著的健康目标。",
+    "best_quote_en": "Overall, I think wearing a pedometer (Fitbit or otherwise) is one of the easiest/best things you can do for your health. This tool is highly recommended.",
+    "best_quote_zh": "总的来说，我认为佩戴计步器（无论是Fitbit还是其他品牌）是你为健康所能做的最简单/最好的事情之一。强烈推荐这款工具。"
   }]
