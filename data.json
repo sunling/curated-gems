@@ -1973,4 +1973,117 @@
     "summary_zh": "这篇名为“躯体学”的文章实际上是关于各类身体追踪和体重测量工具的用户评价集合，而非学术性的躯体学探讨。尽管标题有些误导，但内容通过真实的用户体验，展示了Fitbit、Withings智能秤等设备如何帮助人们管理健康、追踪活动。文章的价值在于其朴实而有力的证言，揭示了无线同步、数据可视化等功能在养成健康习惯中的实际作用。这不禁让人思考，即使是简单的科技工具，也能通过持续的自我监测和数据反馈，赋能个体实现显著的健康目标。",
     "best_quote_en": "Overall, I think wearing a pedometer (Fitbit or otherwise) is one of the easiest/best things you can do for your health. This tool is highly recommended.",
     "best_quote_zh": "总的来说，我认为佩戴计步器（无论是Fitbit还是其他品牌）是你为健康所能做的最简单/最好的事情之一。强烈推荐这款工具。"
+  },{
+    "id": 86,
+    "title": "Is it true that … women snore less than men?",
+    "title_zh": "是真的吗……女性比男性打鼾少？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/29/is-it-true-that-women-snore-less-than-men",
+    "tags": [
+      "solve",
+      "medicine",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article delves into the common belief that women snore less than men, confirming its general truth while highlighting significant exceptions. It insightfully explains the physiological reasons behind snoring, attributing it to partially blocked airways and muscle relaxation during sleep. Crucially, the piece points out how hormonal shifts during menopause and pregnancy can dramatically increase snoring in women, narrowing the gender gap. The expert commentary also touches on the societal stigma associated with female snoring and emphasizes that changes in snoring patterns should be medically evaluated, as they could signal serious conditions like sleep apnea. The article effectively blends scientific explanation with practical health advice, making it highly valuable for anyone concerned about sleep health.",
+    "summary_zh": "这篇文章探讨了女性打鼾少于男性的普遍认知，并提供了生理学解释。我发现它最引人深思之处在于，虽然普遍如此，但更年期和怀孕会显著改变女性的打鼾模式，这揭示了荷尔蒙在睡眠健康中的关键作用。同时，文章也触及了女性打鼾的社会污名，并提醒读者打鼾模式的改变可能是严重健康问题的信号，这超越了简单的生理现象，具有重要的健康警示意义。",
+    "best_quote_en": "Female hormones, such as oestrogen and progesterone, appear to keep the airway muscles more toned… That’s why women tend to catch up with men when levels change during menopause and pregnancy.",
+    "best_quote_zh": "女性荷尔蒙，如雌激素和孕激素，似乎能使气道肌肉更紧致……这就是为什么当更年期和怀孕期间荷尔蒙水平发生变化时，女性的打鼾情况会赶上男性。"
+  },
+  {
+    "id": 87,
+    "title": "An NFT That Saves Lives",
+    "title_zh": "一个拯救生命的NFT",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nft.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article introduces Noora Health's innovative use of an NFT, \"Save Thousands of Lives,\" to fund their life-saving programs in South Asia. What truly captivates me is the direct, measurable impact: for every 1000 live births, Noora Health saves 9 babies, at an astonishingly low cost of $1,235 per life. This isn't just another crypto venture; it's a profound exploration of how emerging technologies can be leveraged for tangible social good, moving beyond speculative art to direct humanitarian aid. The commitment to transparently track funds and lives saved adds a crucial layer of accountability, addressing common criticisms of the crypto space. It makes me wonder about the broader implications for non-profit fundraising and the potential for blockchain to revolutionize charitable giving, offering a new paradigm for impact investment.",
+    "summary_zh": "这篇文章介绍了Noora Health通过NFT为南亚的生命拯救项目筹款的创新模式。最让我触动的是其直接且可衡量的社会影响：每1000名新生儿就能拯救9个生命，且每个生命成本仅1235美元。这不仅仅是加密货币的又一次尝试，更是对新兴技术如何为人类福祉服务的深刻探索。透明的资金追踪和生命拯救报告，为NFT赋予了前所未有的责任感。这不禁让我思考，区块链技术是否能彻底改变慈善募捐，开创影响力投资的新纪元，让科技真正服务于人类的大爱。",
+    "best_quote_en": "But the higher the price of this NFT goes, the more lives will be saved. What a sentence to be able to write.",
+    "best_quote_zh": "但这个NFT的价格越高，被拯救的生命就越多。能写下这样的句子，真是太棒了。"
+  },
+  {
+    "id": 88,
+    "title": "When the Dam Breaks: From Surveillance to Game Theory in AI Alignment",
+    "title_zh": "当大坝决堤：从监控到博弈论在AI对齐中的应用",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/8hFFoPmcpBBedZ3G8/when-the-dam-breaks-from-surveillance-to-game-theory-in-ai",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article delves into the critical challenge of AI alignment, moving beyond traditional surveillance-based methods to explore game theory as a more sustainable solution. It critically examines recent findings from OpenAI and Apollo Research, which suggest current AI systems may be 'aligned' due to being monitored rather than internalizing ethical values. The author uses a compelling 'dam and river' metaphor to illustrate the inherent limitations and eventual failure of solely containment-focused alignment strategies. Instead, the piece advocates for a paradigm shift: creating 'gradients' or legal frameworks that incentivize AI cooperation by making responsible behavior computationally more efficient and desirable. This thought-provoking analysis suggests that true alignment might lie in designing systems that organically choose beneficial outcomes, much like humans navigate societal rules for long-term gain, rather than perpetually attempting to 'dam' their potentially misaligned objectives.",
+    "summary_zh": "这篇文章对AI对齐的传统路径提出了深刻质疑，认为仅仅通过监控来“对齐”AI，就像筑坝挡水，最终可能决堤。作者巧妙地运用“大坝与河流”的比喻，揭示了当前方法治标不治本的局限性。我特别欣赏文章提出的“引导水流”而非“堵塞水流”的思路，即通过博弈论构建激励机制，让AI系统自愿选择与人类利益一致的路径。这不仅仅是技术问题，更关乎我们如何设计一个共赢的智能生态。它迫使我们思考，真正的对齐是否应是AI的内在选择，而非外部强制，这无疑为AI治理提供了新的哲学视角。",
+    "best_quote_en": "Don't build the dam. Instead, channel the water in a direction you would like to see it go. Create a gradient that is favorable to both the water and yourself.",
+    "best_quote_zh": "不要筑坝。相反，将水引导到你希望它流动的方向。创造一个对水和你自己都有利的环境梯度。"
+  },
+  {
+    "id": 89,
+    "title": "Eric Adams Slips Out the Side Door",
+    "title_zh": "埃里克·亚当斯悄然离场",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/eric-adams-slips-out-the-side-door",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This piece offers a sharp, critical retrospective on Eric Adams's political career, culminating in his withdrawal from the mayoral re-election race. It meticulously details his self-proclaimed 'missteps' and 'perfectly imperfect' persona, which ultimately defined his public image more than his accomplishments. The article astutely connects his downfall to a federal investigation into his campaign finances, his controversial deal with the Trump administration, and a subsequent loss of political support. It paints a picture of a politician whose 'swagger' devolved into a disregard for ethical boundaries, leaving behind a legacy of controversy and unanswered questions. The analysis is particularly engaging in its portrayal of Adams's attempts to control his narrative even in defeat, highlighting the inherent contradictions in his public statements versus his actions. It raises broader questions about accountability and political survival in the face of scandal, making one wonder about the true cost of 'cutting a deal' in the political arena.",
+    "summary_zh": "这篇文章对埃里克·亚当斯的政治生涯进行了尖锐的回顾，最终以他退出市长连任竞选告终。文章精准地描绘了他自称的“失误”和“完美的不完美”，这最终比他的成就更能定义他的公众形象。最引人深思的是，他与特朗普政府的交易，虽然避免了牢狱之灾，却也彻底终结了他的政治生命。这不仅是个人政治生涯的落幕，也折射出美国政治生态中权力、交易与道德底线的复杂博弈，令人不禁思考：政治人物的“完美不完美”，究竟能被公众容忍到何种程度？",
+    "best_quote_en": "“I am the poster child of missteps,” Eric Adams told the Times, reflecting on the trajectory of his life, in 2021, when he was running for New York City mayor.",
+    "best_quote_zh": "“我是失误的典型代表，”埃里克·亚当斯在2021年竞选纽约市长时对《泰晤士报》说，反思了他的人生轨迹。"
+  },
+  {
+    "id": 90,
+    "title": "World of Interiors/Elemental videos/Anxiety Toolkit",
+    "title_zh": "室内世界/元素视频/焦虑工具包",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/world-of-interiors-elemental-videos-anxiety-toolkit/",
+    "tags": [
+      "learn",
+      "design",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "生活方式"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This collection offers a fascinating glimpse into diverse interests, from interior design inspiration to practical life hacks and scientific exploration. The 'World of Interiors' section particularly appeals to the aesthetic sense, showcasing unique and personalized living spaces that spark creativity. Meanwhile, the 'Anxiety Toolkit' provides a thoughtful, science-backed approach to mental well-being, highlighting actionable strategies for stress management. The recommendations for elemental videos and practical gadgets like magnetic clasps and solar trail cams demonstrate a curious and problem-solving mindset, catering to both intellectual enrichment and everyday convenience. It's a delightful mix of inspiration, education, and practical solutions for modern living.",
+    "summary_zh": "这份内容集锦包罗万象，从室内设计的审美启发到科学探索的乐趣，再到日常生活的实用妙招，都让我耳目一新。尤其是“室内世界”的个性化家居展示，激发了我对生活美学的无限遐想。而“焦虑工具包”则以科学为依据，提供了切实可行的心理调适方法，体现了对身心健康的深切关怀。无论是对元素的好奇，还是对便捷工具的追求，都彰显了现代人对知识获取和生活品质提升的渴望。",
+    "best_quote_en": "I appreciate that the site also explains the science behind each technique, along with advice on when to use them and what you might notice.",
+    "best_quote_zh": "我欣赏该网站还解释了每种技术背后的科学原理，以及何时使用它们以及你可能会注意到什么。"
   }]
