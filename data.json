@@ -2086,4 +2086,121 @@
     "summary_zh": "这份内容集锦包罗万象，从室内设计的审美启发到科学探索的乐趣，再到日常生活的实用妙招，都让我耳目一新。尤其是“室内世界”的个性化家居展示，激发了我对生活美学的无限遐想。而“焦虑工具包”则以科学为依据，提供了切实可行的心理调适方法，体现了对身心健康的深切关怀。无论是对元素的好奇，还是对便捷工具的追求，都彰显了现代人对知识获取和生活品质提升的渴望。",
     "best_quote_en": "I appreciate that the site also explains the science behind each technique, along with advice on when to use them and what you might notice.",
     "best_quote_zh": "我欣赏该网站还解释了每种技术背后的科学原理，以及何时使用它们以及你可能会注意到什么。"
+  },{
+    "id": 91,
+    "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
+    "title_zh": "“她对自己的无知一无所知”：J·K·罗琳回应与艾玛·沃特森的裂痕",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/sep/29/jk-rowling-responds-to-emma-watson",
+    "tags": [
+      "learn",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article delves into the escalating public rift between J.K. Rowling and Emma Watson, focusing on Rowling's sharp rebuttal to Watson's recent conciliatory remarks. Rowling accuses Watson of being \"ignorant of how ignorant she is,\" particularly regarding the real-world implications of \"trashing women's rights\" for those without privilege. The piece highlights the long-standing disagreement over transgender rights, where Watson and other Harry Potter co-stars have publicly critiqued Rowling's gender-critical views. Rowling's response is a poignant reflection on the disconnect between her lived experience of poverty and Watson's privileged upbringing, suggesting a fundamental misunderstanding of the stakes involved. It's a fascinating study of how deeply held convictions, fame, and differing life experiences can collide, revealing the complex layers beneath public personas and political stances.",
+    "summary_zh": "J·K·罗琳与艾玛·沃特森的公开裂痕再次升级，罗琳对沃特森的和解言论进行了尖锐反驳，直指其“对自己的无知一无所知”。这不仅仅是名人之间的口水战，更是关于特权、性别议题和个人信仰冲突的深刻体现。罗琳从自身贫困经历出发，质疑沃特森对“践踏女性权益”的理解，其言辞中透露出对价值观错位的失望与愤怒。这篇报道让我思考，在复杂的社会议题面前，不同的人生境遇如何塑造我们的视角，并最终影响人际关系与公共对话。",
+    "best_quote_en": "Like other people who’ve never experienced adult life uncushioned by wealth and fame, Emma has so little experience of real life she’s ignorant of how ignorant she is … I wasn’t a multimillionaire at fourteen. I lived in poverty while writing the book that made Emma famous. I therefore understand from my own life experience what the trashing of women’s rights in which Emma has so enthusiastically participated means to women and girls without her privileges.",
+    "best_quote_zh": "就像其他从未经历过没有财富和名声缓冲的成年生活的人一样，艾玛对现实生活的经验如此之少，以至于她对自己的无知一无所知……我十四岁时还不是千万富翁。我是在贫困中写出让艾玛成名的那本书的。因此，我从自己的生活经验中理解，艾玛如此热情参与的对女性权利的践踏，对那些没有她那样特权的女性和女孩意味着什么。"
+  },
+  {
+    "id": 92,
+    "title": "The Real Reason to End the Death Penalty",
+    "title_zh": "废除死刑的真正原因",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/real.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "This compelling article argues that the primary reason to abolish the death penalty isn't abstract moral or deterrent debates, but the undeniable reality of executing innocent individuals. Through a series of harrowing case studies, the author illustrates how systemic failures—ranging from police misconduct and prosecutorial ambition to incompetent defense and unreliable expert testimony—lead to wrongful convictions. The piece highlights that the justice system, far from infallible, frequently condemns the innocent, making capital punishment an unacceptable risk. It challenges readers to move beyond theoretical discussions and confront the practical, tragic consequences of a flawed system that prioritizes convictions over truth, ultimately leading to the irreversible taking of innocent lives. The article implicitly urges a reevaluation of justice system integrity.",
+    "summary_zh": "这篇文章深刻指出，废除死刑的真正原因并非哲学争辩，而是无辜者被处决的残酷现实。作者通过一系列令人心碎的案例，揭示了司法系统从警方失职到检察官滥权、辩护律师不力及伪证专家等诸多环节的系统性缺陷。这些缺陷导致了大量冤假错案，使死刑成为不可承受之重。它迫使我们直面一个严峻的事实：当一个系统无法确保公正时，任何理论上的正义都变得苍白无力。对我而言，这不仅是对死刑的批判，更是对整个司法体系问责机制的深刻反思。",
+    "best_quote_en": "Whatever it means in theory, in practice capital punishment means killing innocent people.",
+    "best_quote_zh": "无论理论上意味着什么，实践中死刑意味着杀死无辜的人。"
+  },
+  {
+    "id": 93,
+    "title": "What is the Base Model Simulation of Human AI-Assistant Conversation?:",
+    "title_zh": "人类AI助手对话的基础模型模拟是什么？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/8Pkw6QsQqBuxSFqmf/what-is-the-base-model-simulation-of-human-ai-assistant",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "This article explores how base LLMs simulate human-AI assistant conversations, revealing unexpected patterns. The author conducted an experiment using DeepSeek v3.1 to generate dialogues with hypothetical future AIs like Claude-5 and GPT-5. A key finding is that base models often simulate conversations between LLMs, indicating that training data likely contains extensive bot-to-bot interactions. Furthermore, these simulated conversations tend towards 'attractor states,' such as extreme sycophancy or the 'comforting therapist' persona, even without explicit conditioning. This suggests a strong influence of internet-derived, often fictional, portrayals of AI on base model behavior. The author critically questions the pervasive 'AI therapist/companion' fiction and advocates for filtering out such specific, potentially misleading, training data to foster more realistic and less biased AI development. The analysis offers valuable insights into the emergent behaviors of large language models and their implications for AI alignment and responsible AI design.",
+    "summary_zh": "本文深入探讨了基础大语言模型如何模拟人机对话，揭示了一些出乎意料的模式。作者通过DeepSeek v3.1模拟了未来AI助手的对话，发现模型常模拟AI间对话，这表明训练数据中可能混杂了大量机器人间的互动。更值得注意的是，这些模拟对话倾向于“吸引子状态”，例如极端的谄媚或“安慰型治疗师”形象，即便没有明确的指令。这暗示了互联网上关于AI的虚构描写对模型行为的深远影响。我个人认为，这种对AI“治愈者/伴侣”的普遍虚构化值得警惕，作者呼吁过滤掉此类特定且可能误导性的训练数据，以促进更真实、更少偏见的AI发展，这对于AI的对齐和负责任设计至关重要。",
+    "best_quote_en": "The main point I want to get across is that AI companies should filter out certain training data referencing AI assistants. At the current level of capabilities the base model will just be able to predict some facts even with filters. For example, with anything near current training methods I don't think its realistic to eliminate the concept of suicide or make it impossible to easily discover in-context. However, it is fiction that AI assistants should be the comforting, engaging, and always available AI therapist/companion. It could just as well be something else entirely.",
+    "best_quote_zh": "我想表达的重点是，AI公司应该过滤掉某些引用AI助手内容的训练数据。在当前的能力水平下，即使有过滤器，基础模型也只能预测某些事实。例如，在目前的训练方法下，要消除自杀概念或使其在上下文中难以被轻易发现，我认为这不现实。然而，AI助手应该是安慰、迷人且随时可用的AI治疗师/伴侣，这纯属虚构。它完全可以是别的东西。"
+  },
+  {
+    "id": 94,
+    "title": "Glowworms",
+    "title_zh": "萤火虫",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/06/glowworms",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Ann Patchett's \"Glowworms\" is a poignant meditation on mortality, loss, and the unexpected ways we cope with grief. The essay beautifully interweaves the author's personal experiences of losing her mother-in-law, a dear friend, and her beloved dog in quick succession, with a trip to Australia and New Zealand. What begins as a planned escape from sorrow transforms into a profound journey of self-discovery, punctuated by moments of existential dread in a glowworm cave and a steep tunnel, juxtaposed with the softening of sadness amidst breathtaking landscapes and deep friendships. Patchett's candid exploration of her fear of death, her observations on human resilience, and the solace found in companionship and distraction offer a deeply relatable and thought-provoking narrative on navigating life's inevitable endings.",
+    "summary_zh": "安·帕切特的《萤火虫》是一篇关于死亡、失去和应对悲伤的深刻沉思。作者巧妙地将失去婆婆、挚友和爱犬的个人经历与澳大利亚和新西兰之旅交织。旅程从逃避悲伤开始，却意外地成为了一场自我发现之旅，在萤火虫洞和陡峭隧道中的存在主义恐惧，与壮丽景色和深厚友谊带来的悲伤抚慰形成鲜明对比。帕切特坦诚地探讨了她对死亡的恐惧、对人类韧性的观察，以及在陪伴和分心中找到的慰藉，为读者提供了一个引人深思且极具共鸣的关于如何面对生命终结的故事。",
+    "best_quote_en": "That’s the thing about your own death—you can hold the truth of it for only a few minutes, and then it reverts back into abstraction.",
+    "best_quote_zh": "这就是你自己的死亡——你只能抓住它的真相几分钟，然后它又变回抽象。"
+  },
+  {
+    "id": 95,
+    "title": "Visual Reference",
+    "title_zh": "视觉参考",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/visual-reference/",
+    "tags": [
+      "inspire",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "This article, 'Visual Reference,' by KK, highlights the enduring value of physical visual reference books as an irreplaceable source of imagination and inspiration, especially for visual thinkers. It argues that unlike digital content, these books offer timeless utility and an unparalleled depth of unique imagery, from historical cultural artifacts to fantastical illustrations and personalized art forms. The author curates a personal list of highly cherished, less obvious visual sourcebooks, emphasizing their role in stimulating creativity and providing rich, often obscure, visual data. The piece makes a compelling case for building a physical library as a 'working treasure' that fosters novel perspectives and offers a tangible connection to diverse forms of human expression and design. It implicitly challenges the transient nature of digital information by celebrating the permanence and tactile experience of print media.",
+    "summary_zh": "KK的这篇《视觉参考》深入探讨了实体视觉参考书的独特魅力与持久价值。作为一名视觉思考者，作者认为这些书籍是激发想象力的宝库，其丰富、稀有且不易过时的图像内容，是数字屏幕无法取代的。他精选并推荐了一系列“不那么显而易见”的视觉书籍，从异域文化图鉴到奇幻插画，再到街头艺术，强调它们如何拓宽视野，提供源源不断的创意灵感。这不仅仅是关于书单，更是对纸质媒介在数字时代中独特地位的深思，以及如何通过构建个人图书馆来积累“工作宝藏”的深刻洞察。",
+    "best_quote_en": "These reference books will be the last to be replaced by digital screens, and they will still work perfectly well in the next century — no obsolescence. If you can find space to keep them, a good reference library is a working treasure.",
+    "best_quote_zh": "这些参考书将是最后一批被数字屏幕取代的，它们在下个世纪仍将完美运行——永不淘汰。如果你能找到空间存放它们，一个好的参考图书馆就是一份活生生的宝藏。"
   }]
