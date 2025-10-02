@@ -1,117 +1,5 @@
-[{
-    "id": 1,
-    "title": "‘You are worthy and deserving of help’: six practical ways to navigate medical misogyny",
-    "title_zh": "“你值得也应该得到帮助”：应对医疗性别歧视的六种实用方法",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/16/you-are-worthy-and-deserving-of-help-six-practical-ways-to-navigate-medical-misogyny",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the pervasive issue of medical misogyny, highlighting how a healthcare system often designed for men frequently dismisses women's health concerns. It presents six actionable strategies for women to advocate for themselves, drawing on personal anecdotes and expert advice. From seeking second opinions and understanding patient rights to researching conditions and clear communication, the piece empowers individuals to navigate a system that often invalidates their experiences. Crucially, it also addresses the significant mental health toll of medical gaslighting and the importance of seeking support. This content resonated deeply with me, emphasizing the systemic challenges women face and offering practical, tangible steps towards reclaiming agency in their healthcare journey. It's a powerful call to self-advocacy and a stark reminder of the ongoing fight for equitable medical treatment.",
-    "summary_zh": "这篇文章深刻剖析了医疗体系中普遍存在的性别歧视现象，揭示了女性在寻求医疗帮助时常被忽视的困境。它提供了六种实用的自我倡导策略，从寻求第二意见到清晰沟通，旨在赋能女性患者。我个人认为，它不仅揭示了系统性问题，更提供了具体可行的解决方案，尤其是对医疗煤气灯效应（medical gaslighting）对心理健康影响的探讨，极具启发性。它提醒我们，在不完善的体系中，自我赋权至关重要，女性值得被倾听和认真对待。",
-    "best_quote_en": "‘When enough people tell you maybe what you’re experiencing is not real, it has a profound effect on your own sense of self, your own confidence.’",
-    "best_quote_zh": "“当足够多的人告诉你，你所经历的可能不是真实的，这对你的自我认知和自信心会产生深远的影响。”"
-  },
+[
   {
-    "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay critically examines the concept of \"superlinear returns,\" arguing that performance rewards in many domains are not linear but exponential or threshold-based. The author posits that this phenomenon, often misunderstood, is a fundamental feature of the world, not merely a flaw of capitalism. Key drivers identified are exponential growth (e.g., startups, learning) and thresholds (winner-take-all scenarios). The piece provocatively suggests that understanding superlinear returns is crucial for ambitious individuals, especially in a world where organizational damping effects are diminishing due to technological progress. It offers heuristics for navigating this landscape, emphasizing continuous learning, curiosity over careerism, and pursuing work that compounds. The article also links superlinear returns to increased inequality, challenging conventional notions of fairness and highlighting the growing importance of independent thought and novel ideas in achieving exceptional success.",
-    "summary_zh": "这篇文章对“超线性回报”这一概念进行了深刻剖析，指出许多领域的绩效回报并非线性，而是指数级或门槛式的。作者认为，这是世界的本质特征，而非资本主义的缺陷。它提醒我们，在组织影响力减弱、技术进步加速的时代，理解并驾驭超线性回报对于有抱负的个体至关重要。我特别欣赏作者对持续学习、好奇心驱动以及独立思考的强调，这不仅是获取超额回报的策略，更是应对复杂世界的核心竞争力。文章也坦率地指出了这种模式必然带来的不平等，促使我们反思个人选择与社会结构之间的张力。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报的概念，你就无法理解这个世界。如果你有抱负，你绝对应该理解它，因为这将是你乘风破浪的浪潮。"
-  },
-  {
-    "id": 3,
-    "title": "Master your sleep cycles",
-    "title_zh": "掌握你的睡眠周期",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8cwpDJYaPtwEyfbCE/master-your-sleep-cycles",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a compelling, data-driven approach to optimizing sleep by understanding personal sleep cycles, moving beyond generic advice. It challenges the efficacy of 'smart alarms' and provides a practical, self-experimentation methodology to determine individual sleep cycle lengths. The author's personal anecdote of reducing sleep time while improving wakefulness is particularly insightful, highlighting the often counter-intuitive nature of biological optimization. The concept of an 'n-1 cycle night' for strategic short-term sleep reduction is a valuable, actionable takeaway for those needing flexibility without severe grogginess. While emphasizing that this is not a substitute for basic sleep hygiene, it empowers individuals to fine-tune their sleep schedule for enhanced alertness and productivity, demonstrating a thoughtful blend of scientific principles and personal discovery.",
-    "summary_zh": "这篇文章深入探讨了通过了解个人睡眠周期来优化睡眠的实用方法，远超泛泛之谈。作者通过自身经历，巧妙地揭示了“智能闹钟”的局限性，并提供了一套严谨的自我实验方法来精确测量睡眠周期。最引人深思的是，减少睡眠时间反而能提高清醒度的发现，这深刻体现了生物节律优化的反直觉魅力。文章还提出了“n-1周期之夜”的策略，为需要在不牺牲清醒度的情况下短期缩短睡眠的用户提供了极具价值的解决方案，展现了科学洞察与个人实践的完美结合。",
-    "best_quote_en": "When you wake up near the end of a sleep cycle, you feel alert, and when you wake up in the middle of a cycle, you feel groggy and disoriented. Researchers have called this variable grogginess “sleep inertia.”",
-    "best_quote_zh": "当你在睡眠周期结束时醒来，你会感到清醒；而当你在周期中间醒来时，你会感到昏沉和迷失方向。研究人员将这种变化的昏沉感称为“睡眠惯性”。"
-  },
-  {
-    "id": 4,
-    "title": "How Jessica Reed Kraus Went from Mommy Blogger to MAHA Maven",
-    "title_zh": "杰西卡·里德·克劳斯如何从育儿博主蜕变为“MAHA”意见领袖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/how-jessica-reed-kraus-went-from-mommy-blogger-to-maha-maven",
-    "tags": [
-      "analyze",
-      "medicine",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This profile offers a fascinating, almost anthropological study of Jessica Reed Kraus's evolution from a mommy blogger to a key influencer within the 'Make America Healthy Again' (MAHA) movement and the broader right-wing political sphere. The article intricately details her pivot from lifestyle content to political commentary, driven by personal disillusionment with liberal orthodoxy and a knack for identifying compelling, often controversial, narratives. It critically examines her unique approach to 'independent journalism'—a blend of gossip, 'quality conspiracy,' and behind-the-scenes access—which has garnered her a massive, engaged audience, particularly among women. The piece raises thought-provoking questions about the changing landscape of media, the monetization of controversy, and the blurring lines between personal branding, political activism, and genuine journalistic inquiry. Kraus's journey highlights the powerful role of personality-driven content in shaping public discourse and influencing political movements, even as it critiques the ethical implications of her methods and the often-unfiltered nature of her content.",
-    "summary_zh": "这篇深度剖析文章揭示了杰西卡·里德·克劳斯如何从育儿博主转变为右翼政治圈和“让美国恢复健康”（MAHA）运动的关键意见领袖。她从个人对自由主义正统的幻灭出发，凭借对争议性叙事的敏锐嗅觉，将内容重心转向政治评论。文章细致描绘了她独特的“独立新闻”模式——融合八卦、“优质阴谋论”和幕后视角——这为她赢得了庞大的女性受众。这不禁让我思考，在当下媒体格局中，个人品牌、政治行动与新闻求真之间的界限究竟何在？克劳斯的故事深刻反映了以个人影响力驱动的内容在塑造公共话语和政治运动中的巨大作用，同时也引发了对她内容伦理和真实性的深刻反思。",
-    "best_quote_en": "“I don’t think he gets what I’ve really done for him.”",
-    "best_quote_zh": "“我不认为他明白我到底为他做了什么。”"
-  },
-  {
-    "id": 5,
-    "title": "The 2024 Trump-Biden Debate",
-    "title_zh": "2024年特朗普-拜登辩论",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/06/debate2024.html",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2024-06-28",
-    "summary_en": "This transcript, presented as a satirical take on the 2024 Trump-Biden debate, offers a stark and humorous commentary on the current state of political discourse. It highlights the pervasive use of ad hominem attacks, factual inaccuracies, and a general lack of substantive policy discussion that often characterizes modern political exchanges. The piece cleverly exaggerates common rhetorical patterns, from Trump's self-aggrandizement and vague promises to Biden's meandering statements and occasional gaffes, making it a critical reflection on how political figures communicate and how audiences consume such content. It's a thought-provoking, albeit darkly comedic, mirror held up to the political arena, prompting readers to consider the depth and value of information presented in high-stakes public forums.",
-    "summary_zh": "这篇2024年特朗普-拜登辩论的讽刺性文本，深刻揭示了当代政治话语的荒诞与空洞。它以夸张手法展现了人身攻击、事实扭曲和政策讨论的缺失，让人不禁反思政治辩论的真正价值。读完之后，我感到一种无奈又清醒的洞察：当严肃的政治议题被个人恩怨和修辞技巧所取代时，我们距离理性决策还有多远？这不仅仅是一场虚构的辩论，更是对现实政治生态的一次辛辣批判。",
-    "best_quote_en": "Trump: I just won two club championships. To do that you have to be smart and you have to be able to hit the ball a long way. He couldn’t hit a ball 50 yards. I have the body and mind of a 23-year-old.",
-    "best_quote_zh": "特朗普：我刚赢了两个俱乐部冠军。要做到这一点，你必须聪明，而且你必须能把球打得很远。他连50码都打不到。我有23岁的身体和头脑。"
-  },{
     "id": 6,
     "title": "Does my vagina really need a ‘facial’?",
     "title_zh": "我的阴道真的需要“面部护理”吗？",
@@ -228,7 +116,8 @@
     "summary_zh": "这篇文章是对 Apple Vision Pro 长达 40 小时深度体验后的深刻评论，作者以其一贯的幽默和洞察力，剖析了这款设备的硬件、操作系统和应用生态。他巧妙地将 Vision Pro 定位为技术S曲线的起点，而非终点，这让我深感认同。尽管佩戴体验和应用生态仍有诸多不足，但其革命性的空间计算交互逻辑无疑预示着未来。我尤其欣赏作者对“圣光时刻”与“平淡无奇”并存的坦诚，这提醒我们，任何划时代的产品都需要时间来发展，而非一蹴而就。这不仅是对 Vision Pro 的评价，更是对科技发展规律的哲学思考。",
     "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
     "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，是既完全震惊又略感平淡的奇特组合。"
-  },{
+  },
+  {
     "id": 11,
     "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
     "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
@@ -345,7 +234,8 @@
     "summary_zh": "这篇文章以幽默而真诚的笔触，分享了新晋父亲在“第四孕期”（产后三个月）的十个深刻体会。作者直言不讳地指出育儿的现实与预期之间的巨大落差，从新生儿的“外星人”属性到缺乏强制性育儿培训的荒谬。我尤其欣赏他对于为人父母是一个渐进过程的洞察，而非一蹴而就。这不仅是一篇育儿随笔，更是对生命重大转折的哲学思考，引发读者对责任、未来和自我转变的深层共鸣。",
     "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
     "best_quote_zh": "你不会在一夜之间从非父母变成父母。有些事情对我们渺小的人类大脑来说实在太宏大了，无法完全吸收。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那一类事情中的又一个。当你的孩子出生时，你（希望）将永远不会再过一天没有孩子的生活。对于那些做出这个决定的人来说，这是他们生命中的公元前-公元纪元分界线。"
-  },{
+  },
+  {
     "id": 16,
     "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
     "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
@@ -462,7 +352,8 @@
     "summary_zh": "这篇文章记录了作者耗时六年完成一本书的历程，最初只是想写一篇关于社会问题的“迷你文章”。它生动地描绘了创作过程中的挣扎、完美主义的陷阱以及沉没成本谬误。最打动我的是，作者如何将个人生活中的重大事件（如结婚、怀孕）作为完成项目的外部动力，这揭示了在面对宏大目标时，有时外部压力反而能提供意想不到的推动力。这不仅仅是一个创作故事，更是一段关于坚持、自我认知和时间管理的深刻反思，读来既感人又富启发性。",
     "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
     "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },{
+  },
+  {
     "id": 21,
     "title": "The one change that worked: I got a period cup – and saved £120 a year",
     "title_zh": "唯一有效的改变：我用了月经杯，每年省下120英镑",
@@ -569,7 +460,8 @@
     "summary_zh": "这篇读者来信集锦是Wait But Why的又一力作，作者以其独特的视角和幽默感，对从微生物大小到人生哲学等各种问题进行了深入探讨。我特别欣赏他对“高阶思维”的见解，以及如何处理对曾经敬佩之人幻灭的智慧。文章不仅提供了信息，更重要的是，它鼓励我们以更开放、批判性的态度审视世界，并从中找到个人成长的路径。这种将宏大思考融入日常生活的笔触，让人读后久久回味。",
     "best_quote_en": "The better I get to know people I've previously demonized, the more pleasantly surprised I am. The better I get to know people I've previously lionized, the more disappointed I become. This makes sense, because people are neither demons nor angels—they're humans.",
     "best_quote_zh": "我越是了解那些我曾妖魔化的人，就越是感到惊喜。我越是了解那些我曾奉为偶像的人，就越是感到失望。这很合理，因为人既非魔鬼也非天使——他们只是人类。"
-  },{
+  },
+  {
     "id": 26,
     "title": "Sustainable period products that actually work: the best pads, menstrual cups and swimwear, tested",
     "title_zh": "经期用品：测评可持续月经产品，包括最佳护垫、月经杯和泳衣",
@@ -688,7 +580,8 @@
     "summary_zh": "这篇文章奇妙地并置了两个看似不相关的世界：一本1967年关于日本传统包装艺术的经典，和一款现代奇幻战棋游戏《冰墓》。前者展现了极致的匠心与美学，那些古老而巧妙的包装设计至今仍令人惊叹，它提醒我们，真正的设计价值是超越时代的。后者则以其精炼的规则和亲民的设定，成功复刻了经典D&D的魅力，为桌面游戏爱好者提供了一个低门槛、高乐趣的体验。这让我思考，无论是古老的包装智慧，还是新潮的游戏设计，其核心都在于如何以最优雅、最有效的方式解决问题，并为体验者带来深层次的满足感。",
     "best_quote_en": "This book is a museum of traditional packaging artifacts from Japan. Before the age of plastic, the Japanese perfected the art of packing consumables in incredibly ingenious ways. They excelled in using natural materials such as paper, straw, clay, and wood. Much of the packaging looks astonishingly modern, even though the form may be hundreds, if not thousands of years old.",
     "best_quote_zh": "Frostgrave不是D&D。它是一款微缩模型游戏，而不是角色扮演游戏。但它仍然成功地在桌面游戏中提供了复古奇幻角色扮演体验的许多精髓，玩法快速简单，无需大量前期投入。"
-  },{
+  },
+  {
     "id": 31,
     "title": "‘This is the hardest I’ve ever lived’: meet the US cowgirls making it as ranchers",
     "title_zh": "“这是我活过最艰难的日子”：探访在美国农场闯出一片天的女牛仔们",
@@ -805,7 +698,8 @@
     "summary_zh": "这篇Wait But Why的文章以其标志性的幽默和深度，介绍了与Kurzgesagt合作开发的“Universe in a Nutshell”应用。作者分享了与Kurzgesagt创始人Philipp Dettmer因共同的“乐趣房间”（即对宇宙尺度的痴迷）而结缘的故事，以及这款旨在探索从微观粒子到宏观星系的互动应用的诞生过程。它不仅仅是产品发布，更是一次对人类好奇心和探索欲的致敬，让我不禁思考，那些看似微不足道的个人兴趣，如何能汇聚成震撼人心的创造。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是那样，是因为你的大脑会拒绝接受你所看到实际尺寸的疯狂。通过一遍又一遍地提醒自己，所有这些物体都“绘制”在同一个二维墙上，你将有望体验到一些有趣的、令人脑洞大开的时刻。"
-  },{
+  },
+  {
     "id": 36,
     "title": "Sex work and abuse: the women trapped in Malawi’s growing refugee camp",
     "title_zh": "性工作与虐待：马拉维日益壮大的难民营中受困的女性",
@@ -920,7 +814,8 @@
     "summary_zh": "这篇引人入胜的故事将我们带入一个关于尺度、时间和多层宇宙的奇妙旅程。从一个普通的早晨散步开始，主人公意外缩小到微观世界，揭示了隐藏的文明和新冠疫情的惊人起源。故事巧妙地利用巨大的尺度差异和时间感知，深刻评论了人类的傲慢、技术进步与智慧脱节，以及全球团结的迫切需要。它挑战了我们以人类为中心的视角，暗示我们最大的问题可能由我们无法感知的存在精心策划，旨在推动我们走向集体觉醒。故事以主人公撰写自身经历的元叙事结尾，增添了一层引人深思的趣味。",
     "best_quote_en": "For most of time, Earth was a safe and stable home for our world. But over the last century, your world has been advancing exponentially in technology but remaining stagnant in wisdom. You’re rapidly gaining tremendous powers but still behaving like short-sighted primates.",
     "best_quote_zh": "在大部分时间里，地球对我们的世界来说都是一个安全稳定的家园。但在过去的一个世纪里，你们的世界在技术上呈指数级进步，智慧却停滞不前。你们正在迅速获得巨大的力量，却仍然表现得像短视的灵长类动物。"
-  },{
+  },
+  {
     "id": 41,
     "title": "The pill, Puerto Rico and the patriarchal medical system | Letters",
     "title_zh": "避孕药、波多黎各与父权医疗体系 | 读者来信",
@@ -1035,7 +930,8 @@
     "summary_zh": "这篇文章以幽默而深刻的方式，通过一系列历史事件的对比，巧妙地揭示了时间流逝的奇特感知。它让我意识到，我们对“过去”的距离感是如此主观，那些曾经的“未来”已然成为历史。读完不禁感叹，我们正生活在一个由无数个“曾经的未来”交织而成的现在，而此刻的我们，也在为百年后的“老古董”们创造着历史。这种对时间维度的重新审视，既令人有些许“老去”的惆怅，也激发出对当下和未来的无限思考。",
     "best_quote_en": "But the weirdest thing about kids today: most of them will live to see the 2100s.",
     "best_quote_zh": "但关于今天的孩子最奇怪的事情是：他们中的大多数人将活到22世纪。"
-  },{
+  },
+  {
     "id": 46,
     "title": "‘Men don’t know why they became unhappy’: the toxic gender war dividing South Korea",
     "title_zh": "“男性不知道他们为何变得不快乐”：分裂韩国的有害性别战争",
@@ -1154,7 +1050,8 @@
     "summary_zh": "这篇Wait But Why的文章提供了一个深刻且引人入胜的职业选择框架，它超越了传统智慧，引入了“渴望章鱼”模型来剖析我们内心复杂且常有冲突的渴望与恐惧。作者力主以“大厨”而非“厨师”的方式生活，即从第一性原理出发，而非盲从社会既定食谱。文章引导读者进行严格的自我审视，辨别真实渴望与“冒名顶替”的欲望，强调职业道路并非僵化的“隧道”，而是动态的“点”或一系列实验。这种重构大大缓解了选择的焦虑，鼓励迭代学习和适应。这是一篇关于自我认知和职业规划的有力宣言，它承认“章鱼”固有的不满足，但倡导从与真我契合中寻得满足。",
     "best_quote_en": "Today’s career landscape isn't a lineup of tunnels, it’s a massive, impossibly complex, rapidly changing science laboratory. Today’s people aren’t synonymous with what they do—they’re impossibly complex, rapidly changing scientists. And today’s career isn’t a tunnel, or a box, or an identity label—it’s a long series of science experiments.",
     "best_quote_zh": "今天的职业图景不是一系列隧道，而是一个巨大、极其复杂、快速变化的科学实验室。今天的人们不能与他们所做的事情划等号——他们是极其复杂、快速变化的科学家。今天的职业也不是隧道、盒子或身份标签——它是一系列漫长的科学实验。"
-  },{
+  },
+  {
     "id": 51,
     "title": "From Nazi Germany to Trump’s America: why strongmen rely on women at home",
     "title_zh": "从纳粹德国到特朗普的美国：为何强人政治依赖家庭中的女性",
@@ -1271,7 +1168,8 @@
     "summary_zh": "这组推荐文章如同一次奇妙的发现之旅，从实用小物件到文化洞察，无不充满惊喜。无限枕头的舒适体验、Instagram上生动展现的当代中国、物美价廉的无线门铃，以及Reddit上的“生活作弊码”，都直击我们对便利与智慧的追求。而那部关于观鸟的纪录片，则以其独特视角揭示了人类痴迷的魅力。这些内容看似各异，实则共同指向了对生活品质的提升、对世界的好奇心以及对深刻洞察的渴望。它让我思考，真正的价值往往藏匿于日常与非凡的交汇点。",
     "best_quote_en": "I have a lot of trouble trying to describe what modern China feels like to those who have not been there in the last decade. Now I can just point to this tiktok-ish Instagram that spins out a steady parade of crazy innovation, brilliant art, amazing skills, stupid tricks, astounding architecture, crass consumerism, that is the urban China that I know and love.",
     "best_quote_zh": "我很难向过去十年没有去过中国的人描述现代中国是什么样的。现在我可以直接指向这个抖音风格的Instagram，它源源不断地展示着疯狂的创新、杰出的艺术、惊人的技能、愚蠢的把戏、令人惊叹的建筑、粗俗的消费主义，这就是我所了解和喜爱的都市中国。"
-  },{
+  },
+  {
     "id": 56,
     "title": "Death by aid cuts: how a decision in the US led to the loss of a mother in Yemen",
     "title_zh": "援助削减致死：美国的一项决定如何导致也门一位母亲的逝去",
@@ -1386,7 +1284,8 @@
     "summary_zh": "这篇文章揭示了OpenAI幕后的两位关键人物：Jakub Pachocki和Szymon Sidor。他们将研究与工程完美结合，解决了无数看似不可能的问题，是GPT-4预训练和推理突破的幕后推手。作者将他们誉为“不知疲倦”的搭档，其贡献远超公众认知。读后不禁思考，我们惊叹于AI的强大，却常常忘记背后那些默默耕耘、突破极限的个体。这种对人类智慧和协作精神的赞颂，远比单纯的技术成就更具启发性，提醒我们在追逐科技前沿时，不应忽视那些奠定基石的无名英雄。",
     "best_quote_en": "There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor. Time and again, they combine research and engineering to solve impossible problems.",
     "best_quote_zh": "我想提及两个人，没有他们，OpenAI就不会是OpenAI：Jakub Pachocki和Szymon Sidor。他们一次又一次地将研究与工程结合起来，解决不可能的问题。"
-  },{
+  },
+  {
     "id": 61,
     "title": "Put yourself first! 10 ways women can get a much better deal at work, home – and beyond",
     "title_zh": "把自己放在第一位！女性在工作、家庭乃至其他方面获得更好待遇的10种方法",
@@ -1501,7 +1400,8 @@
     "summary_zh": "这篇文章描绘了一个宏大的愿景：每周生产千兆瓦级AI基础设施，旨在实现“丰饶的智能”。作者大胆预言，充足的计算力将成为解决人类重大挑战的关键，从治愈癌症到个性化教育，一切皆有可能。这种对算力极限的突破，不仅是技术层面的跃进，更是一种哲学层面的宣言——不愿在重要问题上做取舍。文中提及在美国本土建设的决心，也让我思考这种技术竞赛背后的地缘政治考量，以及随之而来的伦理与治理挑战。",
     "best_quote_en": "If we are limited by compute, we’ll have to choose which one to prioritize; no one wants to make that choice, so let’s go build.",
     "best_quote_zh": "如果算力受限，我们将不得不选择优先处理哪一个；没有人愿意做出这样的选择，所以，让我们去建设吧。"
-  },{
+  },
+  {
     "id": 66,
     "title": "Unsafe abortions and no antenatal care: aid cuts hit women hardest in one of Africa’s poorest countries",
     "title_zh": "不安全的堕胎和缺乏产前护理：援助削减对非洲最贫困国家之一的妇女打击最重",
@@ -1618,7 +1518,8 @@
     "summary_zh": "这篇文章展示了一位高中行政人员如何通过精选工具和生活哲学，平衡工作与爱好。戴夫·罗伊哈布的分享不仅是实用物品清单，更是一种有意识的生活方式体现。他偏爱实体笔记本而非手机应用来激发创意，选择简洁的任务规划工具，以及“无S饮食法”的自律，都揭示了“少即是多”的智慧。这让我反思，在信息过载的时代，如何回归本质，用简单而有效的方法提升效率和幸福感。",
     "best_quote_en": "My thoughts flow with much more creativity than using a notes app on my phone!",
     "best_quote_zh": "我的思绪比使用手机上的笔记应用时更有创意！"
-  },{
+  },
+  {
     "id": 71,
     "title": "From grassroots to states, let women lead. Stability, hope and innovation will follow | Ellen Johnson Sirleaf and Sahle-Work Zewde",
     "title_zh": "从基层到国家，让女性领导。稳定、希望和创新将随之而来 | 埃伦·约翰逊·瑟利夫和萨赫勒-沃克·祖德",
@@ -1735,7 +1636,8 @@
     "summary_zh": "这份内容包罗万象，从消费品保修、旅行预订技巧到城市政策失灵，再到国际政治动荡，展现了世界的多样性与复杂性。终身保修的旅行用品提醒我们消费应追求价值而非速朽，而航班预订数据则提供了实用的生活指南。纽约Airbnb禁令的案例令人深思，政策的初衷与实际效果往往南辕北辙，甚至可能产生意想不到的负面后果。最引人注目的是尼泊尔的政局变动，社交媒体的压制反倒点燃了民众的怒火，这再次印证了信息自由的重要性。这些看似无关的碎片，却共同勾勒出我们所处时代的脉络，令人警醒并引发对社会深层问题的思考。",
     "best_quote_en": "The only people popping Champagne over the results now are hotel owners and that neighbor down the hall who doesn’t have to yell, “Turn down that infernal racket!” Rent prices have gone up at the same clip as before, hitting new records, and vacancy levels are still in the low single digits.",
     "best_quote_zh": "现在唯一为此开香槟的人是酒店老板和那个不必再喊“把那该死的噪音调小点！”的邻居。租金价格和以前一样上涨，创下新高，空置率仍处于低个位数。"
-  },{
+  },
+  {
     "id": 76,
     "title": "‘The closest I came to making life was the closest I came to death’: Florence Welch on sexism, screaming and the lost pregnancy that nearly killed her",
     "title_zh": "“我离创造生命最近的时候，也离死亡最近”：弗洛伦斯·韦尔奇谈性别歧视、尖叫以及差点要了她命的流产经历",
@@ -1854,7 +1756,8 @@
     "summary_zh": "这篇内容像一份精巧的旅行速览，将琐碎的旅行规定、地缘政治观察和市场洞察巧妙地并置。我对美国入境政策的收紧感到忧虑，它不仅增加了旅行成本，更可能损害其国际形象。然而，全球和平指数的数据又为我们描绘了希望的绿洲。酒店品牌的视觉化呈现，则让我对这个看似混乱的市场有了新的理解。这些看似无关的信息，实则共同编织出一幅现代旅行的复杂图景，既有现实的无奈，也有探索的诱惑，令人深思。",
     "best_quote_en": "If you feel like you can’t keep up with all the hotel brands out there and it’s a big confusing mess, there’s a good reason for that sentiment.",
     "best_quote_zh": "如果你觉得你跟不上所有的酒店品牌，觉得它一团糟，这种感觉是有充分理由的。"
-  },{
+  },
+  {
     "id": 81,
     "title": "I wanted to know if having a kid on a burning planet was right. I found that antinatalism is seriously taboo | Bri Lee",
     "title_zh": "我曾思考在一個燃燒的星球上生孩子是否正確，結果發現反出生主義是個嚴重的禁忌 | 布里·李",
@@ -1973,7 +1876,8 @@
     "summary_zh": "这篇名为“躯体学”的文章实际上是关于各类身体追踪和体重测量工具的用户评价集合，而非学术性的躯体学探讨。尽管标题有些误导，但内容通过真实的用户体验，展示了Fitbit、Withings智能秤等设备如何帮助人们管理健康、追踪活动。文章的价值在于其朴实而有力的证言，揭示了无线同步、数据可视化等功能在养成健康习惯中的实际作用。这不禁让人思考，即使是简单的科技工具，也能通过持续的自我监测和数据反馈，赋能个体实现显著的健康目标。",
     "best_quote_en": "Overall, I think wearing a pedometer (Fitbit or otherwise) is one of the easiest/best things you can do for your health. This tool is highly recommended.",
     "best_quote_zh": "总的来说，我认为佩戴计步器（无论是Fitbit还是其他品牌）是你为健康所能做的最简单/最好的事情之一。强烈推荐这款工具。"
-  },{
+  },
+  {
     "id": 86,
     "title": "Is it true that … women snore less than men?",
     "title_zh": "是真的吗……女性比男性打鼾少？",
@@ -2086,7 +1990,8 @@
     "summary_zh": "这份内容集锦包罗万象，从室内设计的审美启发到科学探索的乐趣，再到日常生活的实用妙招，都让我耳目一新。尤其是“室内世界”的个性化家居展示，激发了我对生活美学的无限遐想。而“焦虑工具包”则以科学为依据，提供了切实可行的心理调适方法，体现了对身心健康的深切关怀。无论是对元素的好奇，还是对便捷工具的追求，都彰显了现代人对知识获取和生活品质提升的渴望。",
     "best_quote_en": "I appreciate that the site also explains the science behind each technique, along with advice on when to use them and what you might notice.",
     "best_quote_zh": "我欣赏该网站还解释了每种技术背后的科学原理，以及何时使用它们以及你可能会注意到什么。"
-  },{
+  },
+  {
     "id": 91,
     "title": "‘She is ignorant of how ignorant she is’: JK Rowling responds to Emma Watson rift",
     "title_zh": "“她对自己的无知一无所知”：J·K·罗琳回应与艾玛·沃特森的裂痕",
@@ -2203,7 +2108,8 @@
     "summary_zh": "KK的这篇《视觉参考》深入探讨了实体视觉参考书的独特魅力与持久价值。作为一名视觉思考者，作者认为这些书籍是激发想象力的宝库，其丰富、稀有且不易过时的图像内容，是数字屏幕无法取代的。他精选并推荐了一系列“不那么显而易见”的视觉书籍，从异域文化图鉴到奇幻插画，再到街头艺术，强调它们如何拓宽视野，提供源源不断的创意灵感。这不仅仅是关于书单，更是对纸质媒介在数字时代中独特地位的深思，以及如何通过构建个人图书馆来积累“工作宝藏”的深刻洞察。",
     "best_quote_en": "These reference books will be the last to be replaced by digital screens, and they will still work perfectly well in the next century — no obsolescence. If you can find space to keep them, a good reference library is a working treasure.",
     "best_quote_zh": "这些参考书将是最后一批被数字屏幕取代的，它们在下个世纪仍将完美运行——永不淘汰。如果你能找到空间存放它们，一个好的参考图书馆就是一份活生生的宝藏。"
-  },{
+  },
+  {
     "id": 96,
     "title": "Tech bros want women to have more babies. But they’re going about it the wrong way | Emma Beddington",
     "title_zh": "科技大佬们希望女性多生孩子。但他们的方式错了 | 艾玛·贝丁顿",
@@ -2318,4 +2224,123 @@
     "summary_zh": "这篇内容介绍了两本引人入胜的视觉历史书籍。《生命之树》展示了进化图谱的艺术与科学之美，让人思考视觉化如何塑造我们对科学的理解。而《发现激发想象》则带领读者回顾了无线电和电力的早期发明，充满了奇思妙想。我个人觉得，这两本书都巧妙地连接了科学发现与人类的创造力，提醒我们科学不仅是严谨的理论，也是充满美感的视觉故事。它们共同激发了对知识的渴望和对人类智慧的赞叹，是极好的学习和启发材料。",
     "best_quote_en": "These evolutionary trees are not only scientifically useful, but works of art. Over the years, many approaches to the trees have been tried – some minimal, some ornate, some abstract.",
     "best_quote_zh": "这些进化树不仅在科学上非常有用，而且本身就是艺术品。多年来，人们尝试了多种绘制进化树的方法——有的极简，有的华丽，有的抽象。"
-  }]
+  },
+  {
+    "id": 101,
+    "title": "‘Men seem to make life for women worse’: single US women share the woes of dating in 2025",
+    "title_zh": "“男性似乎让女性生活更糟”：2025年美国单身女性分享约会困境",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/27/us-women-single-dating",
+    "tags": [
+      "solve",
+      "society",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This article offers a poignant glimpse into the evolving landscape of dating for single women in the US, projecting a significant increase in single women by 2030. It delves into the frustrations and disillusionment expressed by hundreds of women, highlighting a perceived decline in male effort, emotional maturity, and shared values. The recurring theme is a desire for partners who 'add to' or 'enhance' their lives, rather than becoming another burden. Many women, despite feeling lonely, prioritize self-sufficiency and refuse to 'settle' for less than their 'basic requirements,' which often include financial stability, emotional intelligence, and shared ambition. The piece thoughtfully explores the paradox of women achieving professional and personal independence, only to find the dating pool shrinking or becoming more challenging, leading some to embrace singlehood by choice or resignation, while others grapple with the 'biological clock' and the financial realities of being single in a couple-centric society. It's a compelling read that prompts reflection on societal shifts and gender dynamics in modern relationships.",
+    "summary_zh": "这篇文章深刻剖析了2025年美国单身女性在约会中面临的困境，揭示了她们对男性缺乏努力、情感不成熟及价值观不匹配的普遍不满。许多女性渴望伴侣能“锦上添花”，而非徒增负担，宁愿保持单身，也不愿降低“基本要求”。我尤其感叹，当女性在事业和个人成长上愈发独立时，约会市场反而似乎变得更具挑战性。这种现象引人深思：是社会对两性的期待发生了错位，还是现代关系模式本身正在经历一场深刻的变革？女性的独立自主与传统婚恋观念之间的张力，在此文中展现得淋漓尽致，也反映了现代女性在追求幸福路上的复杂抉择。",
+    "best_quote_en": "My alone feels so good, I’ll only have you if your presence is sweeter than my solitude.",
+    "best_quote_zh": "我的独处感觉如此美好，只有当你的存在比我的孤独更甜蜜时，我才会接纳你。"
+  },
+  {
+    "id": 102,
+    "title": "Write Simply",
+    "title_zh": "简单写作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/simply.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This article eloquently champions the power of simple writing, arguing that clarity enhances reader engagement and idea retention. It posits that reducing cognitive load for readers allows them to focus more deeply on the content's core message, likening the ideal to 'saltintesta' – ideas leaping directly into the mind. Beyond accessibility, the author suggests simple writing promotes honesty, prevents the concealment of weak ideas, and ensures longevity, especially for non-native English speakers or future audiences. The piece offers a compelling perspective on writing as a considerate act, emphasizing that true elegance lies not in complexity, but in the effortless transmission of thought. It challenges writers to prioritize clarity, even when discussing intricate topics, making a strong case for simplicity as both a strategic and ethical choice.",
+    "summary_zh": "这篇文章对“简单写作”的推崇令人深思。作者提出，清晰的文字能让读者更容易吸收思想，这不仅仅是技巧，更是一种对读者的尊重。我尤其喜欢“saltintesta”的比喻，它精准地描绘了思想直接跳入脑海的理想状态。这提醒我们，写作的终极目的并非炫耀文采，而是高效传递信息。简单不仅能提升作品的生命力，更能迫使作者直面思想的本质，避免用华丽辞藻掩盖内容的空洞。这不只是一个写作建议，更是一种对真诚和效率的呼唤，让我重新审视自己的表达方式。",
+    "best_quote_en": "The main reason I write simply is that it offends me not to. When I write a sentence that seems too complicated, or that uses unnecessarily intellectual words, it doesn't seem fancy to me. It seems clumsy.",
+    "best_quote_zh": "我写作简单主要原因在于，不这样做会让我感到不快。当我写出一个看似过于复杂，或使用了不必要的高深词汇的句子时，在我看来那并非华丽，而是笨拙。"
+  },
+  {
+    "id": 103,
+    "title": "Is Donald Trump’s Sweeping Gaza Peace Plan Really Viable?",
+    "title_zh": "唐纳德·特朗普雄心勃勃的加沙和平计划真的可行吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-donald-trumps-sweeping-gaza-peace-plan-really-viable",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "This article critically examines Donald Trump's ambitious, yet vaguely defined, peace plan for Gaza, announced in October 2025. Despite Trump's hyperbolic claims of achieving 'eternal peace,' the plan faces significant skepticism from experts and former diplomats due to its lack of crucial details, timelines, and a clear understanding of the complex regional dynamics. The author highlights how the plan, while potentially offering 'political gold' for Benjamin Netanyahu by allowing him leverage against Hamas, largely ignores the deep-seated issues and the broader geopolitical context, including the West Bank and Iran's role. The piece thoughtfully dissects the various reactions and implications, revealing how the initiative, despite its grand pronouncements, might be more about political posturing and personal ambition than a viable path to peace, especially given declining U.S. public support for Israel and escalating tensions with Iran. It leaves the reader pondering the true viability and long-term consequences of such a top-down approach to a deeply entrenched conflict.",
+    "summary_zh": "这篇文章深度剖析了特朗普在2025年10月提出的加沙和平计划，尽管其言辞夸张，但实际内容却模糊不清。专家们对此计划普遍持怀疑态度，认为其缺乏具体细节和时间表，也未能充分理解地区复杂性。我读后感受到，该计划更像是特朗普的政治作秀，而非解决冲突的务实方案。它巧妙地为内塔尼亚胡提供了政治筹码，却对巴以问题的核心症结，特别是西岸问题和伊朗角色，避而不谈。这不禁让人思考，在如此错综复杂的地区，自上而下的宏大叙事能否真正带来和平，抑或只是加剧了不确定性。美国公众对以色列支持率的下降，以及与伊朗关系的紧张，都为这份“和平计划”蒙上了一层阴影，其长期影响值得深思。",
+    "best_quote_en": "“If this wasn’t going to seal the fate of so many people, then Trump appointing himself to head this peace board [with the former British Prime Minister Tony] Blair as his underling would be the stuff of fine comedy.”",
+    "best_quote_zh": "“如果这不关乎那么多人的命运，那么特朗普任命自己为和平委员会主席，并让（前英国首相）布莱尔作为他的下属，那将是一出绝妙的喜剧。”"
+  },
+  {
+    "id": 104,
+    "title": "What’s in my NOW? — Melissa Willis",
+    "title_zh": "我的当下有什么？——梅丽莎·威利斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-melissa-willis/",
+    "tags": [
+      "guide",
+      "design",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Melissa Willis shares a deeply personal curation of items that enrich her daily life, categorized into 'Physical,' 'Digital,' and 'Invisible.' Her choices, from a Stephen King-authorized anthology to noise-canceling earbuds and a beloved Star Trek series, reveal a thoughtful approach to balancing personal passions with the demands of farm life and family. What stands out is her intentionality: rediscovering reading for pleasure, tracing ancestry, and even planning a '50 before 50' list. The inclusion of Wislawa Szymborska's poem, 'There But For The Grace,' elevates the piece, offering a profound reflection on the serendipitous nature of existence and personal survival. It's a reminder that true richness often lies in the overlooked connections between tangible objects and intangible reflections.",
+    "summary_zh": "梅丽莎·威利斯分享了她生活中“有形”、“数字”和“无形”的物品，这些选择流露出她对生活的深思熟虑。从史蒂芬·金授权的选集到降噪耳机，再到《星际迷航》，无不体现着她如何在农场生活的忙碌中，平衡个人爱好与家庭责任。尤其引人深思的是，她重新发现阅读的乐趣，追溯家族历史，甚至制定“五十岁前五十件事”的清单，都充满了主动的生命力。维斯拉瓦·辛波丝卡诗歌的引用，更是将这种个人体验升华，引发我们对生命偶然与必然的哲学思考，让人感叹物品与内心世界之间微妙而深刻的联结。",
+    "best_quote_en": "It is not lost on me how our lives can be seen as a series of happy (and not so happy) occurrences and, when you look back on the journey, our survival through the mosaic of it all is quite miraculous.",
+    "best_quote_zh": "我深知，我们的人生可以被看作是一系列或喜或悲的事件，当你回首这段旅程时，我们能穿越这所有零散的片段而存活下来，本身就是一种奇迹。"
+  },
+  {
+    "id": 105,
+    "title": "Sora 2",
+    "title_zh": "Sora 2",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-2",
+    "tags": [
+      "solve",
+      "ai-research",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-09-30",
+    "summary_en": "This announcement introduces Sora, a new AI model and product designed to democratize video creation, akin to \"ChatGPT for creativity.\" The author expresses excitement about the potential for a \"Cambrian explosion\" in art and entertainment, highlighting features like character consistency and the \"cameo\" function for personalized videos. However, a significant portion addresses the ethical considerations and potential negative impacts, drawing parallels to social media's downsides. The team acknowledges risks like addiction, bullying, and the \"RL-optimized slop feed,\" outlining principles such as optimizing for long-term user satisfaction, encouraging user control over content feeds, prioritizing creation, and helping users achieve long-term goals. This reveals a thoughtful approach to balancing innovation with responsible product development, aiming to mitigate the pitfalls often associated with powerful new technologies.",
+    "summary_zh": "Sora 2的发布预示着视频创作领域将迎来一场“寒武纪大爆发”，其易用性令人振奋。然而，文章在展望巨大潜力的同时，也坦诚地表达了对滥用和负面社会影响的担忧，这让我看到了科技公司在追求创新之余，对社会责任的深刻反思。特别是文中提出的“优化用户长期满意度”、“鼓励用户掌控信息流”等原则，展现了开发者试图引导技术向善的努力。这不仅仅是一个产品发布，更是一次关于AI伦理与人类福祉的公开讨论，引人深思。",
+    "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
+    "best_quote_zh": "创造力可能即将经历一场寒武纪大爆发，随之而来的是艺术和娱乐的质量将大幅提升。"
+  }
+]
