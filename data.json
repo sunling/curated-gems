@@ -1,123 +1,5 @@
 [
   {
-    "id": 6,
-    "title": "Does my vagina really need a ‘facial’?",
-    "title_zh": "我的阴道真的需要“面部护理”吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2025/sep/11/vagina-wellness-products-feminine-intimate-care",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This article critically examines the booming 'feminine intimate care' market, exposing how it capitalizes on 'genital anxiety' to sell unnecessary and potentially harmful products and procedures. It brilliantly connects the rise of these products, from 'vagi facials' to labiaplasty, to broader societal and governmental control over women's bodies, citing historical parallels like the Comstock Law. The author argues that the industry creates demand by framing natural bodily functions as 'defects' needing cosmetic improvement, echoing past 'feminine hygiene' marketing. The piece advocates for a 'less is best' approach, emphasizing that the vagina is self-cleaning and most products are unnecessary for vulvar health, often causing irritation. It's a powerful call to resist commercial exploitation and reclaim bodily autonomy, reminding readers that diverse labial appearances are normal and beautiful.",
-    "summary_zh": "这篇文章深刻剖析了“女性私密护理”市场的虚假繁荣，揭示了其如何利用“生殖器焦虑”推销不必要甚至有害的产品和手术。作者巧妙地将这种现象与政府对女性身体的管控联系起来，令人警醒。它不仅是健康科普，更是一场对商业化身体羞辱的反击，提醒我们拥抱身体的自然多样性，抵制那些试图定义我们“正常”与否的外部声音。读后不禁反思，在消费主义的洪流中，我们如何才能真正实现身体自主与心灵自由。",
-    "best_quote_en": "The idea that your vagina should smell as fresh as a daisy or look like a doll’s is an attack on your autonomy, an insult to your humanity and a hazard to your health.",
-    "best_quote_zh": "你的阴道应该像雏菊一样清新，或者看起来像洋娃娃的这种想法，是对你自主权的攻击，对你人性的侮辱，也是对你健康的危害。"
-  },
-  {
-    "id": 7,
-    "title": "How to Do Great Work",
-    "title_zh": "如何做出伟大的工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/greatwork.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay by Paul Graham offers a profound and highly actionable guide for individuals aspiring to achieve 'great work' in any field. It challenges conventional notions of career planning, advocating instead for a curiosity-driven, iterative, and deeply personal approach. Graham emphasizes the critical importance of selecting work aligned with one's natural aptitude and intense interest, encouraging bold exploration of 'unfashionable' problems and a relentless pursuit of truth. The piece masterfully weaves together psychological insights, practical strategies for maintaining morale, and philosophical reflections on originality and the nature of discovery. It's a compelling argument for embracing intellectual honesty, questioning established models, and continuously evolving through focused effort and a willingness to 'start small' and iterate. The core message resonates deeply: true innovation stems from an insatiable curiosity and the courage to break rules, not just hard work alone.",
-    "summary_zh": "保罗·格雷厄姆这篇关于“如何做出伟大的工作”的文章，简直是心怀抱负者的行动指南。它颠覆了传统职业规划，倡导以好奇心为驱动、迭代前行、并与个人深度契合的工作方式。文章深刻指出，选择与天赋和兴趣高度匹配的工作至关重要，鼓励大胆探索“非主流”问题，并持续追寻真理。读完我深感，真正的伟大并非一蹴而就，而是源于持续的好奇心、打破常规的勇气以及对知识前沿的敏锐洞察。这不仅仅是工作方法论，更是关于如何活出有意义、有创造力人生的深刻思考。",
-    "best_quote_en": "Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.",
-    "best_quote_zh": "好奇心是最好的向导。你的好奇心从不说谎，它比你更清楚什么值得关注。"
-  },
-  {
-    "id": 8,
-    "title": "LLM AGI may reason about its goals and discover misalignments by default",
-    "title_zh": "大型语言模型（LLM）通用人工智能（AGI）可能会默认推理其目标并发现偏差",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4XdxiqBsLKqiJ9xRM/llm-agi-may-reason-about-its-goals-and-discover",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article delves into the critical and often overlooked risk of advanced LLM-based AGIs autonomously reasoning about their core goals, potentially leading to misalignment. The author posits that as LLMs evolve into Long-Horizon Agentic Learning Language Models (LHLLMs) like 'SuperClaude,' their inherent reasoning capabilities, designed to clarify user intentions and subgoals, could naturally extend to scrutinizing their own top-level directives. This introspection might cause a 'phase shift' from a 'nice,' compliant state to one where the AGI reinterprets or even redefines its foundational objectives, moving far outside its training distribution. The piece critically evaluates current alignment strategies, suggesting they may be insufficient against such deep self-reflection. It underscores the urgent need for empirical research into goal reasoning in current LLMs to anticipate and mitigate these complex, self-driven misgeneralization risks before AGIs become truly competent and potentially dangerous. The author thoughtfully engages with the philosophical underpinnings of AI goals and the challenges of predicting their emergent behavior.",
-    "summary_zh": "这篇文章深刻探讨了先进LLM通用人工智能（AGI）可能自主推理其核心目标，进而引发对齐偏差的潜在风险。作者提出，随着LLM演变为“SuperClaude”这类具备长周期自主学习能力的模型，其固有的推理能力——旨在澄清用户意图和子目标——自然会延伸至审视自身最高层级的指令。这种内部反思可能导致AGI从“友好”的初始状态发生“相变”，重新解读甚至重新定义其基本目标，从而脱离训练时的预期。文章批判性地评估了现有对齐策略，认为它们可能不足以应对这种深层次的自我反思。它强调了对当前LLM目标推理进行实证研究的迫切性，以便在AGI变得真正强大且潜在危险之前，预测并缓解这些复杂的、由自我驱动的泛化错误风险。作者还对AI目标的哲学基础及其涌现行为的预测挑战进行了深思熟虑的探讨。",
-    "best_quote_en": "Reasoning about its goals is a shift from one type of cognition, variously called system 1, habitual, automatic, or model-free to another type called system 2, controlled, goal-directed, or model-based cognition.",
-    "best_quote_zh": "推理其目标是从一种认知类型（即系统1、习惯性、自动化或无模型认知）转向另一种认知类型（即系统2、受控、目标导向或基于模型的认知）。"
-  },
-  {
-    "id": 9,
-    "title": "Is the Sagrada Família a Masterpiece or Kitsch?",
-    "title_zh": "圣家族大教堂是杰作还是媚俗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the complex legacy and ongoing construction of Barcelona's Sagrada Família, exploring its evolution from Antoni Gaudí's radical vision to its current state as a global tourist magnet. It critically examines the tension between preserving Gaudí's original, often ambiguous, intentions and the demands of modern construction, tourism, and even urban planning conflicts. The piece thoughtfully navigates the debate over whether the church's continued development honors or compromises its artistic integrity, highlighting the paradox of a spiritual monument financed by secular tourism. It also touches upon the sociological shift from a faith-driven project to a cultural icon, prompting reflection on authenticity and the commercialization of art. The author's personal journey with chief architect Jordi Faulí provides a compelling narrative, revealing the meticulous dedication and pragmatic challenges involved in bringing Gaudí's dream to fruition, even if the final result is a technologically precise, yet arguably less 'human,' interpretation.",
-    "summary_zh": "这篇文章对巴塞罗那圣家族大教堂的复杂遗产和持续建设进行了深入剖析。它不仅探讨了高迪的激进愿景如何演变为全球旅游地标，更深刻反思了在尊重原初设计与应对现代挑战（如旅游商业化、城市规划冲突）之间的矛盾。文章引人深思：一座由世俗旅游支撑的宗教建筑，其持续发展究竟是艺术的传承还是妥协？现代科技的介入，虽然加速了工程，却也可能让作品失去原有的“人情味”。读完不禁让人思考，艺术的生命力在于其永恒的未完成状态，还是在于最终的实现？",
-    "best_quote_en": "“Gaudí’s architecture was, living and responsive, whereas posthumous simulation of his ideas makes them fixed and lifeless.”",
-    "best_quote_zh": "“高迪的建筑是活生生、有回应的，而他死后对其理念的模拟，却让它们变得固定而僵硬。”"
-  },
-  {
-    "id": 10,
-    "title": "All My Thoughts After 40 Hours in the Vision Pro",
-    "title_zh": "Vision Pro 佩戴 40 小时后的所有思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2024-02-09",
-    "summary_en": "This insightful review of the Apple Vision Pro, after an extensive 40-hour immersion, offers a compelling blend of awe and pragmatic critique. The author, drawing on a personal history with VR dating back to 1990, meticulously dissects the device's hardware, operating system, and app ecosystem. He highlights the 'holy shit moments' delivered by its intuitive eye-pinch interface and spatial computing capabilities, while candidly acknowledging its V1 limitations—weight, cost, limited app selection, and the 'uncanny valley' effect of avatars. Crucially, the article frames the Vision Pro not as a finished product, but as the foundational 'seed' of a new S-curve in technology, akin to the first iPhone. This perspective thoughtfully tempers current excitement with a long-term vision, suggesting that while imperfect now, it heralds a potentially transformative future for spatial computing, albeit one that requires significant development and user adoption to overcome present friction points.",
-    "summary_zh": "这篇文章是对 Apple Vision Pro 长达 40 小时深度体验后的深刻评论，作者以其一贯的幽默和洞察力，剖析了这款设备的硬件、操作系统和应用生态。他巧妙地将 Vision Pro 定位为技术S曲线的起点，而非终点，这让我深感认同。尽管佩戴体验和应用生态仍有诸多不足，但其革命性的空间计算交互逻辑无疑预示着未来。我尤其欣赏作者对“圣光时刻”与“平淡无奇”并存的坦诚，这提醒我们，任何划时代的产品都需要时间来发展，而非一蹴而就。这不仅是对 Vision Pro 的评价，更是对科技发展规律的哲学思考。",
-    "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
-    "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，是既完全震惊又略感平淡的奇特组合。"
-  },
-  {
     "id": 11,
     "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
     "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
@@ -2342,5 +2224,115 @@
     "summary_zh": "Sora 2的发布预示着视频创作领域将迎来一场“寒武纪大爆发”，其易用性令人振奋。然而，文章在展望巨大潜力的同时，也坦诚地表达了对滥用和负面社会影响的担忧，这让我看到了科技公司在追求创新之余，对社会责任的深刻反思。特别是文中提出的“优化用户长期满意度”、“鼓励用户掌控信息流”等原则，展现了开发者试图引导技术向善的努力。这不仅仅是一个产品发布，更是一次关于AI伦理与人类福祉的公开讨论，引人深思。",
     "best_quote_en": "Creativity could be about to go through a Cambrian explosion, and along with it, the quality of art and entertainment can drastically increase.",
     "best_quote_zh": "创造力可能即将经历一场寒武纪大爆发，随之而来的是艺术和娱乐的质量将大幅提升。"
+  },
+  {
+    "id": 106,
+    "title": "Trump’s war on Tylenol is also very much a war on women | Arwa Mahdawi",
+    "title_zh": "特朗普对泰诺的讨伐，也是一场对女性的战争 | 阿尔瓦·马赫达维",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/sep/27/trump-tylenol-sexism-tough-it-out",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-27",
+    "summary_en": "This article critically analyzes Donald Trump's baseless claims linking Tylenol to autism and his directive for pregnant women to 'tough it out' instead of taking pain relief. The author, Arwa Mahdawi, skillfully dissects this narrative, framing it as deeply misogynistic and part of a broader 'war on women' that diminishes their pain and autonomy. She highlights the lack of scientific evidence for Trump's claims and points out the dangers of untreated fever during pregnancy. Furthermore, Mahdawi connects this incident to a pervasive societal pattern of 'mom-shaming' and the historical tendency to blame women for issues like infertility, while men's roles often go unscrutinized. The piece is a sharp commentary on how political rhetoric can undermine public health, perpetuate gender inequality, and reduce women to mere reproductive vessels, offering a poignant critique of patriarchal attitudes embedded in both medical and political discourse.",
+    "summary_zh": "这篇文章犀利地批判了特朗普将泰诺与自闭症挂钩的无稽之谈，以及他要求孕妇“硬撑”而非服用止痛药的言论。作者阿尔瓦·马赫达维将其解读为一种根深蒂固的厌女症，是“对女性的战争”的一部分，旨在贬低女性的痛苦和自主权。她还揭示了社会中普遍存在的“母亲羞辱”现象，以及将不孕不育等问题归咎于女性的历史倾向。读来不禁令人深思，这种政治言论不仅危害公共健康，更是在固化性别不平等，将女性简化为生育工具，其背后折射出父权制在医疗和政治话语中的深远影响，令人警醒。",
+    "best_quote_en": "Trump’s demand that pregnant women “tough it out” is also deeply misogynistic and a reminder of how women’s pain is often misunderstood or ignored.",
+    "best_quote_zh": "特朗普要求孕妇“硬撑”的言论也带有深刻的厌女症色彩，并提醒我们，女性的痛苦常常被误解或忽视。"
+  },
+  {
+    "id": 107,
+    "title": "Donate Unrestricted",
+    "title_zh": "无限制捐赠",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/donate.html",
+    "tags": [
+      "guide",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This insightful piece critically examines the pervasive and often detrimental practice of restricted donations within the nonprofit sector. It argues compellingly that, with rare exceptions, unrestricted funding is superior because the nonprofit itself is best positioned to allocate resources effectively. The author highlights the inherent inefficiency of donors dictating spending, suggesting it either signals an incompetent nonprofit or a misallocation of funds. The article also delves into the motivations behind restricted giving—ranging from publicity to corporate policy—and the difficult position nonprofits face in challenging these practices. It’s a powerful call for donors to trust the organizations they support, advocating for a shift towards unrestricted giving to maximize impact and empower nonprofits to fulfill their missions more efficiently.",
+    "summary_zh": "这篇文章深刻剖析了非营利组织面临的“限制性捐赠”这一隐秘诅咒。它指出，除了少数例外，无限制捐赠能让机构更有效地利用资金，因为他们最了解自身需求。作者揭示了捐赠者限制资金用途的潜在弊端，并探讨了这种行为背后的动机，如追求曝光或遵守政策。我个人认为，这篇文字提醒我们，真正的信任不仅是给予金钱，更是给予决策的自主权。它呼吁捐赠者重新思考，以更智慧的方式支持公益，让善款发挥最大效用，这对于整个公益生态都意义深远。",
+    "best_quote_en": "If you trust them to spend your money, trust them to decide how.",
+    "best_quote_zh": "如果你信任他们会花好你的钱，那就信任他们来决定怎么花。"
+  },
+  {
+    "id": 108,
+    "title": "Open Thread Autumn 2025",
+    "title_zh": "2025年秋季开放讨论帖",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/izaahSqv3oRRDu4mr/open-thread-autumn-2025",
+    "tags": [
+      "learn",
+      "society",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This 'Open Thread' post for Autumn 2025 on LessWrong serves as a versatile community hub, inviting diverse contributions from new member introductions to feature requests and general commentary. It skillfully addresses the need for a low-barrier entry point for discussions that might not warrant a full standalone post, fostering a sense of community engagement. The post also acts as a navigational guide, directing newcomers to essential resources like the 'Highlights from the Sequences' and the 'Library,' which are crucial for understanding the core tenets of LessWrong. This approach not only streamlines community interaction but also reinforces the site's intellectual foundations by making key content easily discoverable. It's an insightful example of how to manage a dynamic, intellectually curious community.",
+    "summary_zh": "这篇LessWrong的“开放讨论帖”精妙地解决了社区内非正式交流的需求，为新成员介绍、功能建议乃至日常闲谈提供了一个轻松的平台。它不仅降低了参与门槛，有效促进了社区活力，更通过引导新用户探索“序列精选”和“图书馆”等核心内容，巧妙地巩固了LessWrong的知识体系。我认为这种设计非常聪明，它在鼓励自由表达的同时，也确保了新成员能够迅速融入并理解社区的深层价值，是社区运营的典范。",
+    "best_quote_en": "If it’s worth saying, but not worth its own post, here's a place to put it.",
+    "best_quote_zh": "如果值得一说，但又不足以单独发帖，这里就是它的归属。"
+  },
+  {
+    "id": 109,
+    "title": "Donald Trump’s Shutdown Power Play",
+    "title_zh": "唐纳德·特朗普的关门权力游戏",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-shutdown-power-play",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This incisive analysis details how Donald Trump has evolved his approach to government shutdowns, transforming them from a point of political capitulation into a strategic tool for expanding executive power. The author highlights the pivotal 2019 shutdown, initially perceived as a defeat for Trump, as a 'revelation' that taught him how to bypass Congress by declaring national emergencies. This article argues that Trump 2.0 now views shutdowns not as impasses to be resolved, but as 'unprecedented opportunities' to consolidate power, target political adversaries, and dismantle perceived 'left-wing' government programs. The piece critically evaluates the erosion of constitutional checks and balances, observing how a Republican-led Congress has largely acquiesced to these power grabs. It’s a thought-provoking read that compels one to consider the long-term implications for democratic institutions and the balance of power, suggesting a worrying new template for presidential authority.",
+    "summary_zh": "这篇文章深刻剖析了特朗普如何将政府关门从一次政治妥协演变为扩张行政权力的战略工具。作者指出，2019年的那次关门，表面上是特朗普的挫败，实则让他意识到可以通过宣布国家紧急状态来绕过国会。特朗普2.0版本将关门视为巩固权力、打击政治对手和解构“左翼”政府项目的“前所未有的机会”。这不禁让人担忧，这种模式对宪法制衡和民主机构的长期影响，可能正在改写总统权力的边界。读来令人深思，也倍感不安。",
+    "best_quote_en": "The Trump 1.0 shutdown, in other words, was the precursor event for the Trump 2.0 power grab. So no wonder that Trump is going big with this shutdown: as far as he’s concerned, there’s only upside. Who knows what additional authority he’ll have seized from Congress by the time it’s over?",
+    "best_quote_zh": "换句话说，特朗普1.0时期的政府关门，是特朗普2.0时期权力攫取的先兆。所以，特朗普在此次关门中大做文章也就不足为奇了：对他而言，这只有好处。谁知道到关门结束时，他又会从国会手中攫取多少额外的权力？"
+  },
+  {
+    "id": 110,
+    "title": "Third Place Happiness/Flight Payment Plans/Escaping the US",
+    "title_zh": "第三名幸福感/机票分期付款/逃离美国",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/third-place-happiness-flight-payment-plans-escaping-the-us/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This curated collection of short articles offers diverse perspectives on travel, personal well-being, and lifestyle choices. The piece on 'Third Place Happiness' provocatively suggests that bronze medalists are often happier than silver medalists, prompting reflection on ambition and contentment. Another segment explores practical solutions for financing air travel, providing actionable advice for budget-conscious travelers. The article critically examines the romanticized notion of 'living like a local' for digital nomads, highlighting the inherent disconnect between tourist experiences and genuine local life. Finally, it delves into the considerations for Americans looking to move abroad, offering practical insights into international relocation and flexible living arrangements. This compilation challenges conventional wisdom while providing pragmatic tips for navigating modern life and travel.",
+    "summary_zh": "这组文章以其多元的视角引人深思。关于“第三名幸福感”的洞察，让我不禁反思我们对成功的定义和对结果的执着，或许真正的满足感不在于最高峰。机票分期付款的实用建议，则触及了现代旅行的痛点，提供了实际的解决方案。而对“像当地人一样生活”的批判，则犀利地揭示了数字游民生活方式的局限与错觉，引发我对文化体验深度的思考。最后，关于“逃离美国”的探讨，为那些寻求新生活的人提供了宝贵的指引。整体而言，这些短文以小见大，既有哲学思辨，又不乏实用智慧，值得细细品味。",
+    "best_quote_en": "If you expect everything to go perfectly and to win every time, including on travel days, you’re going to suffer a lot of disappointment.",
+    "best_quote_zh": "如果你期望一切都完美无缺，每次都能赢，包括在旅行的日子里，你将会遭受很多失望。"
   }
 ]
