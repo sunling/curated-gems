@@ -1,123 +1,5 @@
 [
   {
-    "id": 11,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article offers a chilling first-person account of how social media algorithms exploit the vulnerability of pregnant women, transforming their feeds from celebratory content to a barrage of fear-inducing narratives about miscarriage, birth complications, and infant safety. The author vividly describes the psychological toll of being relentlessly exposed to distressing content, even after attempting to block it. Expert insights from researchers highlight that this isn't a glitch, but an intentional design choice by platforms to maximize engagement and revenue through fear. The piece thoughtfully explores the broader implications for mental health, the ethical responsibilities of tech companies, and the urgent need for better digital safeguarding for vulnerable users, questioning whether the pursuit of engagement justifies such profound psychological harm. It's a powerful and disturbing look at the dark side of algorithmic personalization during a sensitive life stage.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法如何利用孕妇的脆弱性，将原本温馨的推送内容扭曲成充斥着流产、分娩并发症和育儿焦虑的恐怖信息流。作者的亲身经历令人不寒而栗，算法的精准推送甚至在她告知家人之前就“猜”到她怀孕，随后便是无休止的负面内容轰炸，即便尝试屏蔽也收效甚微。专家指出，这并非算法失误，而是平台为追求互动和收益而故意为之。这不禁让人思考，在商业利益面前，用户，尤其是弱势群体的心理健康是否被无视？文章引发了对科技伦理、数字安全以及平台责任的深层反思，呼吁为孕产妇提供更安全的网络空间。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人痛苦的内容不是故障；它是互动，而互动就是收入。”"
-  },
-  {
-    "id": 12,
-    "title": "How to Get New Ideas",
-    "title_zh": "如何产生新想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/getideas.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece offers a compelling perspective on idea generation, positing that novel ideas emerge from noticing 'anomalies'—what's strange, missing, or broken—especially at the frontiers of knowledge. The author challenges conventional wisdom, suggesting that true innovation lies in identifying the 'gaps' in our understanding, which, upon closer inspection, often appear surprisingly obvious. This fractal view of knowledge growth, where edges seem smooth from afar but reveal intricate gaps up close, is a powerful metaphor for intellectual exploration. It encourages a proactive, curious mindset, urging readers to delve into the unknown rather than merely synthesizing existing information. The insight that these gaps, once explored, can yield entirely new 'fractal buds' is particularly inspiring, hinting at the exponential nature of discovery. It's a call to intellectual adventure, emphasizing observation and critical inquiry as the bedrock of creativity.",
-    "summary_zh": "这篇文章对新想法的产生提出了一个引人深思的视角：真正的创新源于对“异常”的察觉，尤其是在知识前沿。作者以分形增长的知识模型，精妙地阐述了为何从远处看平滑的知识边界，近看却充满显而易见的“空白”。这不仅仅是理论，更是一种思维方式的倡导——鼓励我们积极探寻那些看似理所当然却无人触及的领域。我深感其启发性，它提醒我们，突破性思考并非凭空而来，而是源于对现有认知边界的敏锐洞察与大胆质疑。这正是我在面对复杂问题时所寻求的洞察力。",
-    "best_quote_en": "The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken? You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.",
-    "best_quote_zh": "产生新想法的方法是注意异常：什么看起来奇怪、缺失或损坏？你可以在日常生活中看到异常（许多脱口秀喜剧都基于此），但寻找它们的最佳地点是知识的前沿。"
-  },
-  {
-    "id": 13,
-    "title": "Fun theory like a bonus - set with bets?",
-    "title_zh": "乐趣理论如奖金：如何通过投注设定？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/idXt8jSuTJb2M8P7X/fun-theory-like-a-bonus-set-with-bets",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece delves into a fascinating, albeit abstract, concept: applying a 'fun theory' framework to life decisions, treating experiences as bonuses to be optimized for maximum enjoyment. The author grapples with the challenge of converting subjective 'fun' into measurable metrics and testable hypotheses, drawing inspiration from Eliezer Yudkowsky's 'Theory of Fun.' It's an intriguing thought experiment that touches upon gamification of life, personal optimization, and the quest for a more joyful existence. The core challenge lies in operationalizing such a subjective concept, which I find both stimulating and profoundly difficult. How does one truly quantify 'fun' in a way that allows for meaningful comparison and strategic 'betting' on life paths?",
-    "summary_zh": "这篇文章探讨了一个引人入胜却又抽象的理念：如何将生活体验视为“奖金”，并通过“乐趣理论”进行优化。作者试图将主观的“乐趣”转化为可衡量的指标，并进行假设检验，这无疑是一个巨大的挑战。我个人认为，将生活游戏化以追求最大乐趣的尝试既有其哲学深度，也充满了实践的困境。如何真正量化并比较不同“乐趣”的价值，从而“下注”于最优的人生路径，这让我深思。",
-    "best_quote_en": "How can I bet on the paths that generate the most fun?",
-    "best_quote_zh": "我如何能押注于能产生最多乐趣的路径？"
-  },
-  {
-    "id": 14,
-    "title": "Inside Uniqlo’s Quest for Global Dominance",
-    "title_zh": "优衣库：全球霸主之路",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/inside-uniqlos-quest-for-global-dominance",
-    "tags": [
-      "solve",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a deep dive into Uniqlo's unique business philosophy and its ambitious quest for global dominance, positioning itself not just as a clothing company but as a distributor of \"utopian values\" through its LifeWear concept. It explores how Uniqlo distinguishes itself from fast fashion by focusing on timeless, high-quality basics, leveraging Japanese principles like 'omotenashi' and 'yonobi,' and meticulously incorporating customer feedback into product design. The piece critically examines Uniqlo's global expansion strategy, particularly its challenges in the American market, and its nuanced approach to sustainability amidst massive production scales. The insights into its product development, supply chain, and corporate culture, including the influence of its founder Tadashi Yanai, reveal a brand striving for ubiquity and essentialism in fashion, aiming to become a fundamental \"infrastructure of clothing.\"",
-    "summary_zh": "这篇文章深入剖析了优衣库独特的商业哲学及其全球扩张雄心，它不仅仅是一家服装公司，更试图通过LifeWear理念传播“乌托邦价值观”。文中探讨了优衣库如何通过专注于经典、高质量的基础款，融合日式“待客之道”和“用之美”的理念，并细致地将顾客反馈融入产品设计，从而区别于快时尚。文章也审视了优衣库在全球，尤其是在美国市场的扩张策略所面临的挑战，以及其在巨大生产规模下对可持续发展的复杂立场。读完此文，我深感优衣库的成功在于其对“普适性”和“基本款”的极致追求，这使其在看似同质化的市场中独树一帜，但其“服装基础设施”的愿景能否真正实现，仍充满变数。",
-    "best_quote_en": "“We want to be the infrastructure of clothing. Water, gas, electricity, and Uniqlo.”",
-    "best_quote_zh": "“我们想成为服装的基础设施。水、燃气、电，还有优衣库。”"
-  },
-  {
-    "id": 15,
-    "title": "10 Thoughts From the Fourth Trimester",
-    "title_zh": "第四孕期后的十个思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/05/baby.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2023-05-23",
-    "summary_en": "This deeply personal and humorous account from a new father on 'Wait But Why' delves into the unexpected realities of parenthood during the 'fourth trimester' (the first three months after birth). The author candidly shares ten observations, debunking common myths and societal expectations around newborns. From the alien-like nature of infants to the shocking lack of mandatory parental training, and the profoundly one-sided early relationship, he articulates the overwhelming yet often unacknowledged challenges. What stands out is his raw honesty about the 'expectations-reality gap' and the gradual, rather than instantaneous, transformation into a parent. The piece culminates in a thoughtful reflection on how having a child intensifies contemplation of the future, making it a compelling read for both current and prospective parents seeking a genuine, unfiltered perspective.",
-    "summary_zh": "这篇文章以幽默而真诚的笔触，分享了新晋父亲在“第四孕期”（产后三个月）的十个深刻体会。作者直言不讳地指出育儿的现实与预期之间的巨大落差，从新生儿的“外星人”属性到缺乏强制性育儿培训的荒谬。我尤其欣赏他对于为人父母是一个渐进过程的洞察，而非一蹴而就。这不仅是一篇育儿随笔，更是对生命重大转折的哲学思考，引发读者对责任、未来和自我转变的深层共鸣。",
-    "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
-    "best_quote_zh": "你不会在一夜之间从非父母变成父母。有些事情对我们渺小的人类大脑来说实在太宏大了，无法完全吸收。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那一类事情中的又一个。当你的孩子出生时，你（希望）将永远不会再过一天没有孩子的生活。对于那些做出这个决定的人来说，这是他们生命中的公元前-公元纪元分界线。"
-  },
-  {
     "id": 16,
     "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
     "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
@@ -2334,5 +2216,123 @@
     "summary_zh": "这组文章以其多元的视角引人深思。关于“第三名幸福感”的洞察，让我不禁反思我们对成功的定义和对结果的执着，或许真正的满足感不在于最高峰。机票分期付款的实用建议，则触及了现代旅行的痛点，提供了实际的解决方案。而对“像当地人一样生活”的批判，则犀利地揭示了数字游民生活方式的局限与错觉，引发我对文化体验深度的思考。最后，关于“逃离美国”的探讨，为那些寻求新生活的人提供了宝贵的指引。整体而言，这些短文以小见大，既有哲学思辨，又不乏实用智慧，值得细细品味。",
     "best_quote_en": "If you expect everything to go perfectly and to win every time, including on travel days, you’re going to suffer a lot of disappointment.",
     "best_quote_zh": "如果你期望一切都完美无缺，每次都能赢，包括在旅行的日子里，你将会遭受很多失望。"
+  },
+  {
+    "id": 111,
+    "title": "Meet the 75-year-old powerlifter headed to the world championships",
+    "title_zh": "75岁老奶奶要去参加世界举重锦标赛了！",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/sep/26/powerlifting-kate-evert-world-championships",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This inspiring article chronicles the journey of Kate Evert, a 75-year-old powerlifter defying age stereotypes and heading to the World Masters Powerlifting Championships. What began as a reluctant effort to appease her children evolved into a passionate pursuit of strength and competition. Her story is a powerful testament to the human spirit's capacity for growth and achievement at any age, challenging conventional notions of retirement and physical decline. It highlights the profound mental and physical benefits of embracing new challenges, even when initially daunting, and the unexpected joy found in pushing personal boundaries. Evert’s narrative also subtly critiques societal expectations placed on older adults, celebrating her defiant \"badass\" attitude.",
+    "summary_zh": "这篇文章讲述了75岁的凯特·埃弗特，一位即将参加世界举重锦标赛的奶奶。她的故事令人振奋，从最初为了儿女健康而无奈开始，到后来发现举重带来的力量和乐趣，这不仅是身体的蜕变，更是精神的升华。她打破了年龄的限制，证明了人生的精彩可以由自己定义，无论何时都能追求卓越。读完后，我深感年龄只是数字，真正的限制往往源于内心。她的坚持和勇气，无疑是对所有认为“老了就不行了”的人，一个响亮的耳光。",
+    "best_quote_en": "The other thing is, your endorphins get going, and they’re doing happy parties up and down your spine, and you feel really good. I often say, if I could bottle how good I feel at the end of a workout and sell it, I would make a fortune.",
+    "best_quote_zh": "另一件事是，你的内啡肽开始活跃起来，它们在你的脊椎上下举行快乐派对，你感觉非常好。我常说，如果我能把每次锻炼结束时那种美好的感觉装进瓶子里卖掉，我一定会发大财。"
+  },
+  {
+    "id": 112,
+    "title": "What I Worked On",
+    "title_zh": "我的工作经历",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/worked.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This memoir by Paul Graham offers a deeply personal and intellectually stimulating retrospective on his diverse career path, from early forays into programming and writing to the founding of Viaweb and Y Combinator, and his return to painting and Lisp. He candidly shares his evolving perspectives on technology, art, and entrepreneurship, highlighting key lessons learned, such as the 'low end eats the high end' principle and the value of working on 'unprestigious' projects. Graham's narrative is a compelling exploration of intellectual curiosity, adaptability, and the serendipitous nature of innovation, revealing how seemingly disparate experiences—like painting still life and building web apps—informed his unique contributions to the tech world. It's a testament to following one's genuine interests, even when they diverge from conventional paths, and the profound insights gained from a life of continuous learning and building.",
+    "summary_zh": "保罗·格雷厄姆这篇回忆录引人入胜，他回顾了自己从编程、写作到创办Viaweb和Y Combinator，再到回归绘画和Lisp的多元人生轨迹。文章充满了对技术、艺术和创业的真诚思考，揭示了“低端颠覆高端”等深刻洞见，以及从事“非主流”工作的价值。格雷厄厄姆的叙述展现了强烈的好奇心和适应能力，以及创新过程中意想不到的机遇。阅读此文，我深感人生并非线性发展，而是由无数次探索和转折构成，每一次经历，无论成功与否，都塑造了独特的视角和智慧。这不仅是个人奋斗史，更是对如何追随内心、持续学习的深刻反思。",
+    "best_quote_en": "One of the most conspicuous patterns I've noticed in my life is how well it has worked, for me at least, to work on things that weren't prestigious. Still life has always been the least prestigious form of painting. Viaweb and Y Combinator both seemed lame when we started them. I still get the glassy eye from strangers when they ask what I'm writing, and I explain that it's an essay I'm going to publish on my web site.",
+    "best_quote_zh": "我生活中最明显的模式之一是，至少对我而言，做那些不那么有声望的事情，效果却出奇地好。静物画一直是最没有声望的绘画形式。Viaweb和Y Combinator在我们刚开始时都显得很逊。当陌生人问我在写什么时，我解释说这是一篇我将在自己网站上发表的文章，他们依然会投来茫然的目光。"
+  },
+  {
+    "id": 113,
+    "title": "How New Mexico Became a Sanctuary State for Health Care",
+    "title_zh": "新墨西哥州如何成为医疗保健的庇护州",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-southwest/how-new-mexico-became-a-sanctuary-state-for-health-care",
+    "tags": [
+      "inspire",
+      "politics",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This article offers a compelling case study of New Mexico's progressive pivot in healthcare policy, particularly in the post-Roe v. Wade era. It meticulously details how the state, despite its poverty and rural nature, has strategically positioned itself as a sanctuary for reproductive rights and gender-affirming care, attracting clinics and patients from neighboring restrictive states like Texas. The analysis highlights the political maneuvering, legislative efforts, and the surprising resilience of progressive forces against local conservative backlash. What truly stands out is the state's vision to leverage improved healthcare access, including universal childcare, not just as a social good but as a driver for economic development and an answer to its chronic health worker shortages. It's a fascinating look at how state-level policy can create starkly different realities for citizens and offers a glimpse into the evolving landscape of American healthcare post-Dobbs.",
+    "summary_zh": "这篇文章深入探讨了新墨西哥州如何巧妙地成为医疗保健领域的进步堡垒，尤其是在“罗诉韦德案”被推翻后。它不仅详细阐述了该州在堕胎权和性别肯定护理方面的坚定立场，还揭示了其如何吸引周边保守州的诊所和患者。最引人深思的是，新墨西哥州将医疗可及性（包括全民育儿）视为经济发展和解决医疗人员短缺的策略，而非单纯的社会福利。这让我看到了在联邦层面分裂的背景下，州级政策如何塑造截然不同的社会现实，以及进步愿景如何在一个看似不可能的地方生根发芽。",
+    "best_quote_en": "“New Mexicans always think of their state as last, and I don’t know why that is,” Lujan Grisham told me. “These are huge announcements. There’s a lot we can do better, but New Mexico is on the forefront in a lot of ways.”",
+    "best_quote_zh": "“新墨西哥人总是认为自己的州是落后的，我不知道为什么会这样，”卢汉·格里沙姆告诉我。“这些都是重大声明。我们有很多地方可以做得更好，但新墨西哥州在很多方面都走在前沿。”"
+  },
+  {
+    "id": 114,
+    "title": "Sora update #1",
+    "title_zh": "Sora 更新 #1",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/sora-update-number-1",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This update on Sora, an AI video generation tool, offers fascinating insights into the rapid evolution of generative AI and its intersection with intellectual property. The immediate focus on granular control for rightsholders over character generation, especially acknowledging the deep connection users have with Japanese content, highlights the critical importance of ethical AI development and creator compensation. The proposed revenue-sharing model for video generation, driven by unexpectedly high user engagement, signals a nascent but potentially transformative economic paradigm for creative industries. It's clear that the developers are navigating uncharted waters, balancing user creativity with commercial viability and IP rights, which makes this a compelling case study in real-time product iteration and policy-making within the AI space. The \"interactive fan fiction\" concept is particularly intriguing.",
+    "summary_zh": "Sora的首次更新揭示了生成式AI在版权和商业模式上的快速演进。特别关注日本内容创作者的权利保护和收入分成，这不仅是对IP价值的尊重，更是对未来创意经济模式的积极探索。用户意想不到的高活跃度，迫使产品团队迅速思考盈利和版权共享策略，这反映了AI产品从理论到实践的真实挑战。这种快速迭代和开放性试错的态度，令人想起ChatGPT的早期阶段，预示着一个充满不确定但又潜力无限的未来。",
+    "best_quote_en": "We are hearing from a lot of rightsholders who are very excited for this new kind of \"interactive fan fiction\" and think this new kind of engagement will accrue a lot of value to them, but want the ability to specify how their characters can be used (including not at all).",
+    "best_quote_zh": "我们从许多版权所有者那里听说，他们对这种新型的“互动同人小说”非常兴奋，并认为这种新型的参与方式将为他们带来巨大价值，但他们希望能够指定如何使用他们的角色（包括完全不使用）。"
+  },
+  {
+    "id": 115,
+    "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
+    "title_zh": "核心要点：人类如何选择并维系短期与长期浪漫伴侣 | David Buss 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-human-romantic-partner-selection-keep-david-buss",
+    "tags": [
+      "update",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-02",
+    "summary_en": "This Huberman Lab episode, featuring evolutionary psychologist Dr. David Buss, delves into the intricate science behind human mate selection and retention. It offers a fascinating exploration of universal traits valued in long-term partners, highlighting the nuanced differences in priorities between men and women. Beyond the aspirational aspects, the discussion bravely confronts the 'darker' dimensions of mating behavior, such as deception, the evolutionary roots of jealousy, and the motivations behind stalking. As someone deeply curious about human behavior, I find Buss's evolutionary lens provides a compelling, albeit sometimes uncomfortable, framework for understanding the fundamental drivers shaping our romantic lives. The episode's value lies in its data-driven insights into a topic often shrouded in emotion and societal convention.",
+    "summary_zh": "本期Huberman Lab邀请进化心理学先驱David Buss博士，深入剖析人类择偶与伴侣维系的科学。内容不仅揭示了长期伴侣选择中的普适性特质及两性差异，更触及了择偶行为中“黑暗”的一面，如欺骗、嫉妒的进化功能乃至跟踪行为的动机。作为对人类行为充满好奇的个体，我发现Buss博士的进化视角极具启发性，它以严谨的科学态度审视了情感世界中那些不为人知的深层机制，令人深思。",
+    "best_quote_en": "We explore the science behind human mate selection in both short- and long-term relationships. We discuss universal traits valued in long-term partners along with key differences between women and men in what they prioritize when selecting a mate. We also discuss the darker aspects of mating behavior, such as deception, the evolutionary function of jealousy and the motivations behind stalking.",
+    "best_quote_zh": "我们探讨了人类在短期和长期关系中择偶背后的科学。我们讨论了长期伴侣中普遍看重的特质，以及男女在选择伴侣时优先考虑的显著差异。我们还讨论了择偶行为中更阴暗的方面，例如欺骗、嫉妒的进化功能以及跟踪行为的动机。"
   }
 ]
