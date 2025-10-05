@@ -117,4 +117,119 @@
     "best_quote_en": "In the 2030s, intelligence and energy—ideas, and the ability to make ideas happen—are going to become wildly abundant. These two have been the fundamental limiters on human progress for a long time; with abundant intelligence and energy (and good governance), we can theoretically have anything else.",
     "best_quote_zh": "在2030年代，智能和能源——即想法，以及将想法变为现实的能力——将变得极其丰富。这两者长期以来一直是人类进步的根本限制；有了丰富的智能和能源（以及良好的治理），理论上我们可以拥有其他一切。"
   }
-]
+,{
+    "id": 6,
+    "title": "Book of the month: Ning Ken",
+    "title_zh": "本月图书：宁肯",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/09/25/book-of-the-month-ning-ken/",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This analysis of Ning Ken's novel, \"Tibetan Sky,\" delves into its profound exploration of cultural clashes, the nature of reality, and the human search for meaning. The reviewer highlights how the book challenges Western norms through its unique narrative structure, which includes authorial interruptions and philosophical disquisitions. I found the discussion of how language shapes perception and the Tibetan concept of 'not-knowing' particularly insightful, suggesting a deeper path to understanding beyond conventional frameworks. The novel also critically examines the impact of globalization on traditional cultures, even touching on sensitive political themes within China, which the reviewer reflects on with genuine curiosity. This piece effectively conveys the novel's intellectual depth and its capacity to provoke readers into questioning their own assumptions about life, death, and cultural understanding.",
+    "summary_zh": "宁肯的《藏海》是一部引人深思的作品，它巧妙地颠覆了西方叙事规范，通过作者的介入和对“不知”境界的探索，展现了文化碰撞与存在意义的深刻追问。我特别欣赏文章中对语言如何塑造世界观的探讨，以及小说对全球化影响下文化混杂现象的敏锐洞察。这不仅仅是对一部小说的评论，更是一次关于阅读如何挑战我们固有认知、引导我们反思文化与政治界限的智性旅程。它促使我们思考，在多元文化交织的世界中，如何保持开放与好奇。",
+    "best_quote_en": "While fiction is, of course, made up, we should think of it as the art form of the exploration of the possible, fiction imagines different possible lives.",
+    "best_quote_zh": "小说固然是虚构的，但我们应该将其视为探索可能性的艺术形式，小说描绘了各种可能的生活。"
+  },
+  {
+    "id": 7,
+    "title": "A mastectomy broke my body. CrossFit reminded me I was still alive",
+    "title_zh": "乳房切除术摧毁了我的身体，CrossFit 让我重拾生命活力",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/sep/25/breast-cancer-recovery-weightlifting-crossfit",
+    "tags": [
+      "solve",
+      "education",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This deeply personal essay explores the author's journey of physical and emotional recovery after a double mastectomy. Far from a typical fitness testimonial, it delves into the profound psychological impact of bodily trauma and the unexpected solace found in CrossFit. The author candidly shares her initial struggles, past aversion to exercise, and the unique community aspect of CrossFit that fostered a sense of belonging and self-competition rather than external judgment. It's a powerful narrative about reclaiming agency over one's body, confronting vulnerability, and redefining strength in the face of life-altering health challenges. The piece compellingly argues for the holistic benefits of strength training in recovery, extending beyond physical rehabilitation to mental and emotional well-being.",
+    "summary_zh": "这篇文章深刻剖析了乳房切除术后身体与精神的双重重建。作者真诚地分享了她从身体创伤到在CrossFit中找到力量的历程。它不仅仅是关于健身，更是关于如何在脆弱中重新掌控身体，重塑自我认知。CrossFit的社群氛围和强调自我超越的文化，为她提供了一个安全的港湾。这是一个关于韧性、社群支持和通过运动疗愈身心的动人故事，让人不禁思考，真正的力量往往在最意想不到的地方被唤醒。",
+    "best_quote_en": "The thing that I like most about CrossFit is that I have never felt as if I am trying to compete against anyone else in the gym. Everyone is on the same team, competing against themselves.",
+    "best_quote_zh": "我最喜欢CrossFit的一点是，我从未觉得自己在健身房里与任何人竞争。每个人都在同一支队伍里，与自己竞争。"
+  },
+  {
+    "id": 8,
+    "title": "Billionaires Build",
+    "title_zh": "亿万富翁的打造之道",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ace.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This insightful essay debunks the myth that billionaires achieve wealth through exploitation, arguing instead that true, sustainable billionaire status is built by genuinely 'making something people want.' The author, drawing on experience from Y Combinator, explains that successful founders are deeply attuned to user needs, often living 'in the future' and building solutions for problems they themselves experience. The piece offers practical advice for YC interviews, emphasizing honesty, deep user understanding, and a clear path to a large (even if initially larval) market, rather than a polished pitch. It critically examines the motivations of founders, distinguishing between those driven by genuine interest and those solely by money or coolness, and asserts that the former are the ones who build enduring, massively successful companies. This analysis challenges conventional wisdom about wealth creation and startup success, offering a compelling perspective on authentic entrepreneurship.",
+    "summary_zh": "这篇文章深刻驳斥了亿万富翁通过剥削致富的常见误解，强调真正的财富源于“创造人们真正需要的东西”。作者结合Y Combinator的经验，揭示了成功创始人往往能洞察用户痛点，甚至超前感知未来需求。文章不仅为Y Combinator面试提供了实用建议，更是一次对创业本质的深度思考：与其追求华丽的融资技巧，不如专注于用户价值和解决实际问题。我尤其欣赏其对创始人动机的剖析，指出真诚的热情而非单纯的金钱驱动，才是构建伟大企业的基石。这不仅仅是创业指南，更是对社会财富观的一次有力校正。",
+    "best_quote_en": "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want. Newly started startups have no choice but to delight users, or they'll never even get rolling.",
+    "best_quote_zh": "成为亿万富翁最可靠的方法是创办一家快速成长的公司，而快速成长的方法就是制造用户想要的东西。新成立的初创公司别无选择，只能取悦用户，否则它们永远无法启动。"
+  },
+  {
+    "id": 9,
+    "title": "What Happens to School Lunches in the MAHA Era?",
+    "title_zh": "MAHA时代，学校午餐会发生什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-happens-to-school-lunches-in-the-maha-era",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This article critically examines the paradox between the 'Make America Healthy Again' (MAHA) movement's stated goals of improving child nutrition and the Trump Administration's actions, which appear to undermine these very objectives. By cutting federal funding for farm-to-school programs and SNAP, the administration jeopardizes small farmers and access to fresh, local food for millions of children, particularly those from low-income families. The piece highlights the struggles of farmers like Harrison Bardwell and the innovative efforts of school nutrition professionals like Aimee Haag and Patrick Sterling, who strive to provide nutritious, appealing meals despite significant financial and regulatory hurdles. It also touches on the enduring influence of figures like Alice Waters and the often-overlooked benefits of school meals, challenging the narrative that school lunches are inherently 'poisonous.' Ultimately, the article underscores the complex interplay of policy, economics, and practical challenges in delivering healthy school meals, questioning the sincerity and efficacy of the MAHA era's approach to public health.",
+    "summary_zh": "这篇深度分析揭示了“让美国再次健康”运动在学校午餐问题上的内在矛盾。尽管RFK Jr.承诺改善儿童饮食，特朗普政府却削减了支持农场到学校项目的资金，这不仅让小农场主陷入困境，也威胁到数百万儿童获取新鲜食物的机会。文章通过生动的案例，展现了基层营养工作者在资金和法规限制下的创新与坚守，以及学校午餐对儿童营养的积极作用。这种政策与实践的脱节，令人深思：当政治口号与实际行动背道而驰时，谁将真正为公共健康买单？",
+    "best_quote_en": "“It’s extremely frustrating when you have R.F.K., Jr., saying that school lunches are poison, because it stigmatizes eating school meals.”",
+    "best_quote_zh": "“当R.F.K., Jr.说学校午餐有毒时，这非常令人沮丧，因为它给吃学校餐的孩子打上了耻辱的烙印。”"
+  },
+  {
+    "id": 10,
+    "title": "Three Observations",
+    "title_zh": "三点观察",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/three-observations",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-02-09",
+    "summary_en": "This article offers a compelling, future-focused perspective on Artificial General Intelligence (AGI), moving beyond sensationalism to provide three economic observations: the logarithmic relationship between AI intelligence and resources, the unprecedented 10x annual cost reduction of AI capabilities, and the super-exponential socioeconomic value of linearly increasing intelligence. It posits AGI as a transformative tool akin to the transistor, predicting a future where individual human agency is amplified, not diminished, by virtual co-workers and widespread AI access. The authors thoughtfully address potential societal shifts, from the redefinition of work and wealth distribution to the critical role of public policy in ensuring equitable access and preventing authoritarian misuse. This piece is a must-read for anyone grappling with the profound implications of AGI, urging us to consider both the technological trajectory and the ethical frameworks needed for a beneficial future.",
+    "summary_zh": "这篇文章对通用人工智能（AGI）的未来进行了深刻而富有启发性的洞察，超越了肤浅的炒作，提出了三个关键的经济学观察。它不仅预测了AGI将像晶体管一样渗透到经济的每个角落，还强调了其对个人能动性和社会财富分配的巨大影响。我特别欣赏作者对技术进步与社会公平之间张力的思考，以及对公共政策在塑造AGI未来中关键作用的强调。这不仅是一篇技术预测，更是一份对人类如何驾驭这一巨变、确保其普惠性的深思熟虑的呼吁，读后令人对未来既充满期待又深感责任。",
+    "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
+    "best_quote_zh": "在十年内，也许地球上的每个人都能比当今最有影响力的人完成更多的事情。"
+  }]
