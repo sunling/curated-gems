@@ -232,4 +232,121 @@
     "summary_zh": "这篇文章对通用人工智能（AGI）的未来进行了深刻而富有启发性的洞察，超越了肤浅的炒作，提出了三个关键的经济学观察。它不仅预测了AGI将像晶体管一样渗透到经济的每个角落，还强调了其对个人能动性和社会财富分配的巨大影响。我特别欣赏作者对技术进步与社会公平之间张力的思考，以及对公共政策在塑造AGI未来中关键作用的强调。这不仅是一篇技术预测，更是一份对人类如何驾驭这一巨变、确保其普惠性的深思熟虑的呼吁，读后令人对未来既充满期待又深感责任。",
     "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
     "best_quote_zh": "在十年内，也许地球上的每个人都能比当今最有影响力的人完成更多的事情。"
+  },{
+    "id": 11,
+    "title": "*Give away* The Gifts of Reading for the Next Generation",
+    "title_zh": "赠阅：献给下一代的阅读之礼",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/09/18/give-away-the-gifts-of-reading-for-the-next-generation/",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "This piece highlights the enduring enthusiasm for reading among young people globally, particularly their engagement with translated fiction, as evidenced by Nielsen data. The author shares personal anecdotes of interacting with young readers and expresses delight in contributing to \"The Gifts of Reading for the Next Generation,\" an anthology celebrating the joy and importance of reading for youth. The article also draws attention to the charitable aspect of the anthology, with royalties supporting Room to Read and U-Go, organizations dedicated to literacy and female education in low-income countries. It concludes with a personal offer to give away a signed copy of the book, fostering community engagement around shared reading experiences. The underlying message is a hopeful one: reading continues to be a powerful, transformative force, especially for the next generation, and initiatives like this anthology amplify its reach and impact.",
+    "summary_zh": "读完这篇，我深感阅读的力量在年轻一代中依然生生不息。作者分享了与世界各地年轻读者的互动，以及他们对翻译小说的热情，这不仅仅是数据上的印证，更是文化交流的生动体现。能参与到《献给下一代的阅读之礼》这样的文集中，不仅是个人荣誉，更是一种传递知识和希望的善举，尤其是当版税用于支持教育公益时。这让我思考，我们如何才能更好地引导和激发孩子们对阅读的兴趣，让书本成为他们探索世界的窗口。",
+    "best_quote_en": "book buyers under the age of 35 account for almost half (48.2%) of all translated fiction purchases in the UK.",
+    "best_quote_zh": "35岁以下的购书者占据了英国所有翻译小说购买量的近一半（48.2%）。"
+  },
+  {
+    "id": 12,
+    "title": "Jess Cartner-Morley on fashion: how to do hourglass without the tradwife overtones",
+    "title_zh": "Jess Cartner-Morley谈时尚：如何在不带“传统妻子”意味的情况下穿出沙漏型身材",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/sep/24/jess-cartner-morley-on-fashion-how-to-do-hourglass-without-the-tradwife-overtones",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "Jess Cartner-Morley explores the contemporary return of the hourglass silhouette in fashion, navigating its potential 'tradwife' connotations with a feminist lens. She offers practical advice on how to embrace a cinched waist and defined hips using modern, less traditionally feminine pieces like trouser suits, belted jeans, and jackets, rather than tight dresses. The article thoughtfully unpacks the tension between appreciating a flattering aesthetic and resisting regressive societal messaging, drawing a clever parallel to the cognitive dissonance of enjoying a warm summer while acknowledging climate change. It advocates for a conscious approach to styling, emphasizing comfort and personal expression over restrictive ideals, ultimately empowering readers to reinterpret classic shapes in a way that feels authentic and forward-thinking.",
+    "summary_zh": "Jess Cartner-Morley巧妙地探讨了沙漏型时尚回潮的文化内涵，如何在拥抱这种曲线美的同时，避免落入“传统妻子”的刻板印象。她提出了用裤装、系带外套等非传统女性化单品来塑造腰线的实用建议，这不仅是对旧时尚的创新解读，也反映了女性在追求美的过程中，对自我认同和舒适度的深层思考。文章将时尚选择与气候变化的复杂情感相类比，展现了对审美与社会语境之间微妙关系的深刻洞察，令人不禁反思我们如何通过穿着来表达自我，并与时代精神共鸣。",
+    "best_quote_en": "If you are hourglass curious but tradwife wary, a simple recipe to follow is to make the shape curvy, but using pieces that aren’t traditionally feminine.",
+    "best_quote_zh": "如果你对沙漏型身材感到好奇，但又警惕“传统妻子”的意味，那么一个简单的秘诀就是：用不那么传统女性化的单品来打造曲线美。"
+  },
+  {
+    "id": 13,
+    "title": "The Airbnbs",
+    "title_zh": "Airbnb 的创始人",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnbs.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This insightful article delves into the early, challenging days of Airbnb, highlighting the founders' extraordinary earnestness and resilience. It wasn't just a business venture; it was a deeply personal mission fueled by their own experience as hosts and a belief in the future of shared accommodations, even when facing dire financial straits and investor skepticism. The narrative beautifully illustrates how their unwavering dedication, exemplified by their 'Tasmanian Devil' work ethic and meticulous attention to user needs—like personally photographing listings in New York—ultimately propelled them to 'ramen profitability' and beyond. This piece serves as a powerful testament to the critical role of founder grit, genuine passion, and strategic focus on early adopters in overcoming immense obstacles and achieving startup success. It truly inspires me to reflect on the core motivations behind any endeavor.",
+    "summary_zh": "这篇文章深入剖析了Airbnb创始团队早期所展现的非凡真诚与坚韧。他们不仅仅是为了赚钱，更是因为亲身体验到共享住宿的价值，坚信其未来。即便面对财务困境和投资者的质疑，他们也从未放弃。文章生动地描绘了他们如“塔斯马尼亚恶魔”般的努力，以及亲力亲为为纽约房源拍照等细节，这些都最终帮助他们实现了“拉面盈利”。读完此文，我深感创业的成功往往源于创始人对初心的坚守、对用户需求的深刻洞察以及在绝境中不屈不挠的精神。这不仅仅是关于Airbnb的故事，更是对所有创业者的一次深刻启示。",
+    "best_quote_en": "Why hadn't they given up? This is a useful question to ask. People, like matter, reveal their nature under extreme conditions. One thing that's clear is that they weren't doing this just for the money.",
+    "best_quote_zh": "他们为什么没有放弃？这是一个值得思考的问题。人，就像物质一样，在极端条件下才能显露其本性。有一点很清楚，他们做这件事不仅仅是为了钱。"
+  },
+  {
+    "id": 14,
+    "title": "The Complexities of Trans Gun Ownership",
+    "title_zh": "跨性别者持枪权的复杂性",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-complexities-of-trans-gun-ownership",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This article delves into the intricate and often paradoxical landscape of trans gun ownership in the U.S., highlighting how trans individuals are arming themselves for self-defense amidst rising hate crimes, only to face opposition from both gun control advocates and segments of the pro-gun movement. It critically examines the weaponization of mental health narratives against trans people, particularly in the context of gender dysphoria being cited as a reason to strip them of Second Amendment rights. The piece thoughtfully explores the historical parallels with other marginalized groups seeking self-protection, the evolving perception of guns in rural vs. urban settings, and the personal motivations—from safety to gender affirmation—driving trans individuals to gun ownership. It challenges readers to consider the complex interplay of identity, safety, and political rhetoric, urging for a more nuanced conversation beyond partisan lines.",
+    "summary_zh": "这篇文章深刻剖析了跨性别者持枪权的复杂困境。在仇恨犯罪日益增多的背景下，跨性别者为自卫而持枪，却意外发现自己被枪支管制倡导者和部分拥枪派共同排斥。文章批判性地审视了精神健康叙事如何被武器化，尤其是将性别焦虑症作为剥夺跨性别者持枪权的理由。它引人深思地探讨了这一现象与历史上其他边缘群体寻求自我保护的相似之处，以及枪支在城乡文化中的不同象征意义。我尤其欣赏文章中关于枪支如何成为一种性别认同表达的视角，这超越了单纯的安全考量，揭示了个人选择背后更深层次的社会与心理动因。这不仅仅是关于枪支，更是关于身份、安全与政治话语的交织，呼吁我们进行更细致入微的对话。",
+    "best_quote_en": "“It’s not about gun control. It’s about removing trans people’s autonomy.”",
+    "best_quote_zh": "“这无关枪支管制。这关乎剥夺跨性别者的自主权。”"
+  },
+  {
+    "id": 15,
+    "title": "Reflections",
+    "title_zh": "反思",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reflections",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-01-06",
+    "summary_en": "Sam Altman's 'Reflections' offers a candid, introspective look at OpenAI's journey from a nascent research lab to a global AI powerhouse, particularly in the two years since ChatGPT's launch. He articulates the immense challenges of scaling a company in an entirely new technological frontier, highlighting the messy, unpredictable nature of innovation. The piece delves into the intense personal and professional stresses, including his unexpected firing, and the critical role of governance and supportive networks. Altman also reaffirms OpenAI's ambitious vision for AGI and superintelligence, emphasizing a commitment to iterative, safe deployment while acknowledging the profound societal implications. It's a fascinating blend of entrepreneurial memoir, strategic outlook, and a personal testament to perseverance amidst unprecedented technological and organizational growth.",
+    "summary_zh": "Altman的《反思》真诚地回顾了OpenAI从寂寂无闻到全球瞩目的历程，尤其ChatGPT发布两年来的跌宕起伏。他深刻剖析了在新兴技术领域高速发展所面临的巨大挑战，创新之路的混乱与不可预测性跃然纸上。文中提及的被解雇事件，不仅展现了个人所承受的巨大压力，也凸显了公司治理和支持网络的重要性。他对AGI和超级智能的坚定愿景，以及对迭代式、安全部署的承诺，都令人深思。这不仅是一篇创业回忆录，更是对未来科技走向的战略展望，充满了真挚的情感与对未知世界的探索欲。",
+    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents “join the workforce” and materially change the output of companies.",
+    "best_quote_zh": "我们现在确信我们知道如何构建我们传统意义上理解的AGI。我们相信，到2025年，我们可能会看到第一批AI代理“加入劳动力大军”，并实质性地改变公司的产出。"
   }]
