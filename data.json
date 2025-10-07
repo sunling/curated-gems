@@ -464,4 +464,113 @@
     "summary_zh": "这组精炼的推荐涵盖了生活智慧、实用工具和启发性资源。从丹·平克的精简建议到派对策划技巧，再到实时数据可视化网站和视频会议补光灯，内容都聚焦于即时可用性和价值。其中穿插的派对游戏和发人深省的语录，不仅带来乐趣，更触及心灵深处。我特别欣赏这种多元化但又高度聚焦于“有用”的策展方式，它巧妙地在日常实用性和精神滋养之间找到了平衡，是现代人高效获取价值信息的典范。",
     "best_quote_en": "“it’s better to have mediocre pizza from a happy host than fabulous hors d’oeuvres from a frazzled one.”",
     "best_quote_zh": "“比起一个手忙脚乱的主人提供的美味佳肴，一个快乐的主人提供的普通披萨反而更好。”"
+  },{
+    "id": 21,
+    "title": "Book of the month: M.G. Sanchez",
+    "title_zh": "本月好书：M.G. Sanchez",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/07/28/book-of-the-month-m-g-sanchez/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-07-28",
+    "summary_en": "This review delves into M.G. Sanchez's 'Diary of a Victorian Colonial and other Tales,' offering a nuanced critique of a collection that explores themes of displacement, belonging, and the unique literary landscape of Gibraltar. The analysis highlights Sanchez's powerful voice, particularly in the first two novellas, which skillfully blend humor with insightful commentary on colonialism and identity. It praises the author's ability to create engaging first-person narratives and his bold use of multilingualism, reflecting Gibraltar's diverse linguistic fabric. However, the review also critically examines the collection's unevenness, noting that the final story feels out of place and less compelling. This piece offers a thoughtful exploration of how a distinctive literary culture can emerge from a small, complex community, challenging conventional literary standards and prompting reflection on cultural representation.",
+    "summary_zh": "这篇书评深入探讨了M.G. Sanchez的《维多利亚殖民日记及其他故事》，对其独特的文学价值进行了细致剖析。作者对Sanchez笔下引人入胜的叙事和对殖民主义与身份认同的深刻探讨赞不绝口，尤其欣赏其对直布罗陀多语言文化的大胆呈现。然而，书评也坦率指出作品结构上的不平衡，认为最后一篇故事稍显逊色。这不仅是一篇书评，更是对小众文化如何孕育独特文学声音的思考，引人深思其对主流文学标准的挑战与启示。",
+    "best_quote_en": "It may be that Sanchez and his fellow Gibraltarian writers are nurturing a literary culture that works according to other standards – one that has no need to appeal to the sensibilities of a citizen of the country that once colonised their homeland.",
+    "best_quote_zh": "也许，桑切斯和他的直布罗陀作家同仁正在培育一种遵循其他标准的文学文化——一种无需迎合曾殖民他们家园的国民情感的文化。"
+  },
+  {
+    "id": 22,
+    "title": "I spent months testing insomnia cures – then grieving for a pet made sleep impossible",
+    "title_zh": "我花了好几个月测试失眠疗法——然后为宠物哀悼让睡眠变得不可能",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures",
+    "tags": [
+      "analyze",
+      "psychology",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "生活方式"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "This deeply personal reflection explores the profound impact of grief on sleep, even after extensive trials of various insomnia remedies. The author, having tested numerous sleep aids, finds that the emotional turmoil following the death of her beloved cat, Iggy, renders all previous solutions ineffective. It highlights a critical distinction: while physical discomfort or environmental factors can often be mitigated by products, the psychological burden of loss requires a different kind of healing. The piece eloquently conveys the irreplaceable comfort of companionship and the limits of material solutions in addressing deep emotional pain, ultimately suggesting that sometimes, a change of scenery and time are the only true remedies.",
+    "summary_zh": "这篇文章深刻地探讨了悲伤对睡眠的巨大影响，即使在尝试了各种失眠疗法之后。作者曾是睡眠产品的“测试专家”，却在挚爱的猫咪Iggy离世后发现所有方法都失效了。这让我不禁思考，物质层面的解决办法终究有其局限，面对深层的情感创伤，真正的治愈往往需要时间和内心的调整。那种无法被任何产品替代的陪伴，以及失去后心灵的空洞，是任何“助眠神器”都无法填补的。",
+    "best_quote_en": "I needed help sleeping, but the context had changed profoundly (I didn’t need earplugs to block pre-dawn miaows); it was my mind, not my body, that kept me awake.",
+    "best_quote_zh": "我需要帮助入睡，但背景已发生了深刻的变化（我不再需要耳塞来阻挡黎明前的猫叫）；让我保持清醒的是我的思想，而不是我的身体。"
+  },
+  {
+    "id": 23,
+    "title": "Early Work",
+    "title_zh": "早期作品",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/early.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This essay critically examines the pervasive fear of creating 'lame' early work, arguing that this fear is a significant barrier to innovation and great achievements. It posits that our societal and individual inability to properly evaluate nascent ideas stems from a lack of experience with the iterative nature of creation. The author highlights Silicon Valley as a cultural anomaly where an 'optimistic' approach to early-stage projects has become a custom, driven by self-interest but evolving into benevolence. The piece then delves into practical, psychological strategies to overcome this self-censorship, such as strategic overconfidence, cultivating a supportive environment, and reframing projects as learning experiments. Ultimately, it suggests that by studying the often-feeble beginnings of great works, we can recalibrate our judgment and foster a more conducive environment for groundbreaking innovation.",
+    "summary_zh": "这篇文章深刻剖析了人们对创作“平庸”早期作品的普遍恐惧，指出这是阻碍伟大成就的关键因素。作者认为，我们缺乏处理迭代式创造的经验，导致无法正确评估新生想法。硅谷作为一种文化特例被提出，其对早期项目的乐观态度已演变为一种习俗，尽管最初源于自利。文章随后提供了克服自我审查的实用策略，如策略性自信、建立支持性环境和将项目视为学习实验。最终，我从中感悟到，通过审视伟大作品的微弱开端，我们能重新校准判断标准，为创新开辟更广阔的空间，这不仅是个人成长，更是社会进步的基石。",
+    "best_quote_en": "One of the biggest things holding people back from doing great work is the fear of making something lame.",
+    "best_quote_zh": "阻碍人们做出伟大工作的一大障碍，是害怕做出平庸之作。"
+  },
+  {
+    "id": 24,
+    "title": "Why Israel and Hamas Might Finally Have a Deal",
+    "title_zh": "为什么以色列和哈马斯最终可能达成协议",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This insightful analysis delves into the complex geopolitical forces potentially leading to a deal between Israel and Hamas, two years into the conflict. It highlights three critical factors: Hamas's shifting calculus towards political survival over ideology, the Trump administration's strategic pressure on Gulf states, and crucially, Trump's unprecedented direct pressure on Netanyahu. The article emphasizes Trump's transactional approach, blurring personal and national interests, as a unique catalyst. It critically evaluates the motivations of all parties, particularly Hamas's use of hostages as leverage and Netanyahu's political vulnerabilities. The discussion also touches upon the broader implications for regional stability, the role of international actors, and the dim prospects for a two-state solution, offering a thought-provoking perspective on the intricate dynamics of Mideast diplomacy.",
+    "summary_zh": "这篇深度分析揭示了以色列与哈马斯可能达成协议的复杂地缘政治动因。文章强调了哈马斯生存策略的转变、特朗普政府对海湾国家的施压以及他对内塔尼亚胡前所未有的直接干预。我发现，特朗普将个人利益与国家利益混淆的交易性手段，竟成为推动和解的关键。这让我深思，在国际政治中，非传统手段有时反而能打破僵局。作者对各方动机的剖析，特别是哈马斯以人质为筹码的策略，以及内塔尼亚胡的政治困境，都提供了宝贵的洞见。读完不禁感叹，中东和平之路，依然充满变数与挑战。",
+    "best_quote_en": "Trump, in my judgment, would not have done any of those things if Netanyahu had not agreed. But the compliance was based on Netanyahu’s fear that if he didn’t sign up, Trump would begin to wage a campaign saying that Netanyahu was mismanaging the U.S.-Israeli relationship—'undermining my interests and yours.'",
+    "best_quote_zh": "在我看来，如果内塔尼亚胡不同意，特朗普是不会做任何那些事的。但内塔尼亚胡的顺从是基于他的恐惧：如果他不签署协议，特朗普就会开始一场运动，声称内塔尼亚胡正在“损害我（特朗普）的利益和你们（以色列）的利益”，从而搞砸美以关系。"
+  },
+  {
+    "id": 25,
+    "title": "North America Adventures",
+    "title_zh": "北美探险指南",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/north-america-adventures/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This content provides a fascinating, in-depth look at two distinct North American travel guides: 'The People’s Guide to Mexico' and 'The Milepost' for the Alaskan highway. What truly stands out is the philosophy behind 'The People's Guide,' which champions immersive, off-the-beaten-path travel over typical tourist experiences. It's not just a guide; it's a manual for living off the land, navigating local customs, and embracing the unexpected. The anecdotes about driving hazards and health tips in Mexico are particularly vivid, offering a blend of humor and practical wisdom. While 'The Milepost' offers a more conventional, albeit essential, mile-by-mile road trip resource for Alaska, the Mexican guide transcends mere information, becoming a source of inspiration for adventurous spirits. The article itself serves as a testament to the enduring value of thoroughly researched, experience-driven travel literature, highlighting how such resources can transform a trip into an authentic adventure.",
+    "summary_zh": "这篇文章深入探讨了两本极具价值的北美旅行指南。墨西哥指南以其独特、深入的非主流旅行理念引人入胜，它不仅仅是路线指引，更是一部关于如何融入当地文化、应对挑战的生活手册。书中关于驾驶风险和健康建议的生动描述，充满了智慧与幽默。相比之下，阿拉斯加公路指南虽是实用的里程参考，但墨西哥指南的深度和人文关怀，无疑更能激发旅行者探索未知、体验真实的冲动。这让我反思，真正的旅行工具不仅在于提供信息，更在于传递一种生活态度和探索精神。",
+    "best_quote_en": "The People’s Guide to Mexico is one of the best travel guides I’ve ever seen to anywhere in the world. You could easily transfer many of their tips to traveling in Asia or Africa, and the rest of Latin America. But the bulk of it is very particular to Mexico. Every page yields golden nuggets of fine advice for every part of a very large Mexico.",
+    "best_quote_zh": "《人民墨西哥指南》是我见过的最好的旅行指南之一，它适用于世界任何地方。你可以轻易地将其中许多技巧运用到亚洲、非洲乃至拉丁美洲其他地区的旅行中。但其主体内容仍然非常贴合墨西哥。每一页都为广阔的墨西哥的各个角落提供了宝贵的黄金建议。"
   }]
