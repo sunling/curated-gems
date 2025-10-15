@@ -392,9 +392,9 @@ def parse_json_safely(text):
 def call_openrouter(model, title, full_content):
     # Updated prompt for smart tagging system
     prompt_content = f"""
-# TASK: Intelligent Content Analysis & Value-Based Tagging
+# TASK: Intelligent Content Analysis, Value-Based Tagging & 深度批判报告
 
-You are an expert content analyst specializing in extracting meaningful insights and generating intelligent tags based on content value and user discoverability.
+You are an expert content analyst specializing in extracting meaningful insights, generating intelligent tags based on content value and user discoverability, 并以中文输出结构化的批判性报告。
 
 ## ANALYSIS FRAMEWORK:
 
@@ -434,9 +434,32 @@ Return a JSON object with exactly these fields:
   "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
   "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)",
   "tags": ["value-based", "discoverable", "English", "tags"],
-  "tags_zh": ["基于价值", "可发现的", "中文", "标签"]
+  "tags_zh": ["基于价值", "可发现的", "中文", "标签"],
+  "critical_report_zh": "层级分明的中文批判报告"
 }}
 ```
+
+### critical_report_zh 生成规则
+请把这篇文章当成“待拆弹”，按照以下 8 步一次性走完，输出层级分明的中文报告：
+1.【批判性思维九步拆解】
+  ①论点：一句话概括作者核心主张。
+  ②事实/观点分离：列出 3 条可验证事实 + 3 条主观评价。
+  ③证据审查：每条事实标注来源可信度（高/中/低）。
+  ④逻辑链：用箭头图表示主要推理，并指出3处潜在漏洞。
+  ⑤隐藏假设：写出作者未明说的 3 条前提。
+  ⑥反例：给出 1 个反例或对立视角 。
+  ⑦概念澄清：圈出 1 个关键词并给出你的明确定义。
+  ⑧边界条件：指出该结论最可能失效的 3 种情境。
+  ⑨角色立场：推断作者身份、利益相关方与潜在动机，并评估这对文本可信度与论述重点的影响。
+2.【三栏表】列出“隐含前提 / 证据 / 逻辑推论”，每栏标注可信度（高/中/低）及可质疑点各一段。
+3.【反例压力】给出 3 个数据充分却结论相反的案例，并模拟原文作者可能的一段回应。
+4.【价值冲突雷达】对照核心价值观（自由·平等·可持续），列出冲突强度 1–5 的 3 个具体点。
+5.【立场换位】将原文改写成立场相反但仍自洽的短文。
+6.【情绪—归因】写出阅读后的主要情绪，给出 3 种认知归因并设计 1 个 24 小时可验证的小实验。
+7.【十年回溯】若持续相信原文观点，10 年后的最大收益与最大风险各 1 条，并写 1 条本周可执行的小步调整策略。
+8.【角色代入】思考写这篇文章的人角色立场，是否存在角色代入，并阐明影响。
+
+确保 critical_report_zh 使用清晰的中文层级编号与小标题呈现上述要点。
 
 ## TAGGING QUALITY STANDARDS:
 
@@ -741,7 +764,8 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
             "summary_en": analysis_data.get('summary_en', '') if isinstance(analysis_data, dict) else '',
             "summary_zh": analysis_data.get('summary_zh', '') if isinstance(analysis_data, dict) else '',
             "best_quote_en": analysis_data.get('best_quote_en', '') if isinstance(analysis_data, dict) else '',
-            "best_quote_zh": analysis_data.get('best_quote_zh', '') if isinstance(analysis_data, dict) else ''
+            "best_quote_zh": analysis_data.get('best_quote_zh', '') if isinstance(analysis_data, dict) else '',
+            "critical_report_zh": analysis_data.get('critical_report_zh', '') if isinstance(analysis_data, dict) else ''
         }
     except Exception as e:
         print(f"[Failed] Error assembling final item: {e}")
